@@ -1,17 +1,18 @@
+#!/usr/bin/env python3.5
 from collections import defaultdict
 import json
 def tree(): return defaultdict(tree)
 session_config =tree()
 
-session_config['main']['start_user_id']=911
-session_config['main']['end_user_id']=911
+session_config['main']['start_user_id']=933
+session_config['main']['end_user_id']=933
 
 session_config['default']['session_log']=True
 session_config['default']['detail_log']=False
 session_config['default']['break_log']=True
 session_config['default']['error_break']=False
 session_config['default']['stake_start']=10
-session_config['default']['stake_end']=1000000
+session_config['default']['stake_end']=10000
 session_config['default']['stake_steps']=2000         
 session_config['default']['stake_stride']=1000
 session_config['default']['best_strategy']=True

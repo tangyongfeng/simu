@@ -3,13 +3,13 @@ import json
 import poker
 from poker import *
 _DEEP_DEBUG_=False
+from remote import *	
 
 class zhongcaiweiyou:
-
+	_connected=False
 	def __init__(self):
 		self.cookies={}
 		self.lastMessage=''
-	
 		
 
 	def  heartbeat(self):
@@ -44,7 +44,7 @@ class zhongcaiweiyou:
 
 
 	def login(self,userid,appid):
-		source=self.source_url+self.source_action_head+self.source_login
+		source=source_url+source_action_head+source_login
 		
 		logininfo=self.getit(source,{'fbuid':userid, 'appId':appid})
 		if (logininfo['errcode']=='000000'):
@@ -53,7 +53,7 @@ class zhongcaiweiyou:
 			return 0
 		
 	def deal(self,betCoins):
-		source=self.source_url+self.source_action_head+self.source_deal
+		source=source_url+source_action_head+source_deal
 		dealinfo=self.getit(source,{"betCoins":betCoins})
 		if _DEEP_DEBUG_:
 			print ('in middle layer,deal')
@@ -64,7 +64,7 @@ class zhongcaiweiyou:
 
 
 	def hit(self):
-		source=self.source_url+self.source_action_head+self.source_hit
+		source=source_url+source_action_head+source_hit
 
 		hitinfo=self.getit(source,{})
 		if _DEEP_DEBUG_:
@@ -73,7 +73,7 @@ class zhongcaiweiyou:
 		return self.parseMessageToCard(hitinfo)
 
 	def double(self):
-		source=self.source_url+self.source_action_head+self.source_double
+		source=source_url+source_action_head+source_double
 
 		doubleinfo=self.getit(source,{})
 		if _DEEP_DEBUG_:
@@ -81,7 +81,7 @@ class zhongcaiweiyou:
 			print (doubleinfo)
 		return self.parseMessageToCard(doubleinfo)
 	def stand(self):
-		source=self.source_url+self.source_action_head+self.source_stand
+		source=source_url+source_action_head+source_stand
 		dealerCard=[]
 
 		standinfo=self.getit(source,{})
