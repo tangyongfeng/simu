@@ -252,7 +252,7 @@ class Simuclient(threading.Thread):
 		self.player.financial.nextRound(strategy,'%d:%d'%(self.player.fristHand.get_value(),self.player.dealerhand.get_value()),award)
 
 		if ((self.player.financial.round % self.config.stake_steps)==0) and (self.player.financial.stake < self.config.stake_end):
-			self.financial.getStage()
+			self.player.financial.getStage()
 			self.player.financial.stake+=self.config.stake_stride
 	
 
