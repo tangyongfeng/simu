@@ -1,20 +1,20 @@
 {
     "default": {
-        "break_log": true,
-        "error_break": false,
-        "stage_size": 200,
-        "detail_log": false,
-        "has_double": true,
-        "stake_start": 5000,
         "has_split": false,
-        "stage_log": true,
-        "stake_end": 100000,
-        "best_strategy": true,
-        "stake_stride": 5000,
+        "stake_start": 100,
         "verify_level": false,
+        "verify_coin_blance": true,
         "native_black_return": 2.5,
+        "stage_log": true,
+        "has_double": true,
+        "error_break": false,
+        "stake_stride": 0,
         "session_log": true,
-        "verify_coin_blance": true
+        "break_log": true,
+        "detail_log": false,
+        "stage_size": 20,
+        "stake_end": 100000,
+        "best_strategy": true
     },
     "main": {
         "start_user_id": 944,
