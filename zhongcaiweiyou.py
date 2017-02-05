@@ -23,7 +23,7 @@ class zhongcaiweiyou:
 
 
 	def  disconnect(self):
-		todo=2
+		todo=3
 		
 			
 	def  getit(self,source,pay_load):
