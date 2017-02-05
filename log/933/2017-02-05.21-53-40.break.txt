@@ -1,0 +1,692 @@
+2,2017-02-05.21-53-40,14:23,S3DA:H4HADQD8,S,PLAYER_WIN,1523794,5000,10000,{'step': 'Stop', 'state': 'true', 'bust': 'dealer', 'dealerPoints': 23, 'splited': 'false', 'totalCoins': 1543794, 'playerPoints': 14, 'win': 'W', 'player': [{'id': 15, 'value': 3}, {'id': 39, 'value': 1}], 'dealer': [{'id': 29, 'value': 4}, {'id': 26, 'value': 1}, {'id': 50, 'value': 12}, {'id': 46, 'value': 8}]}
+
+6,2017-02-05.21-53-41,21:10,SASK:C4C6,,PLAYER_BLACKJACK,1546294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1543794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 3, 'value': 4}, {'id': 5, 'value': 6}]}
+
+53,2017-02-05.21-53-52,21:18,HJDA:C8CQ,,PLAYER_BLACKJACK,1536294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1533794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 39, 'value': 1}], 'dealer': [{'id': 7, 'value': 8}, {'id': 11, 'value': 12}]}
+
+71,2017-02-05.21-53-56,21:16,HQHA:C5SA,,PLAYER_BLACKJACK,1511294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1508794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 26, 'value': 1}], 'dealer': [{'id': 4, 'value': 5}, {'id': 13, 'value': 1}]}
+
+97,2017-02-05.21-54-03,21:14,SACT:D9H5,,PLAYER_BLACKJACK,1511294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1508794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 9, 'value': 10}], 'dealer': [{'id': 47, 'value': 9}, {'id': 30, 'value': 5}]}
+
+111,2017-02-05.21-54-07,21:19,SKSA:DJS9,,PLAYER_BLACKJACK,1516294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1513794, 'cansplit': 'false', 'player': [{'id': 25, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 49, 'value': 11}, {'id': 21, 'value': 9}]}
+
+146,2017-02-05.21-54-17,21:20,DACJ:SKCK,,PLAYER_BLACKJACK,1516294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1513794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 10, 'value': 11}], 'dealer': [{'id': 25, 'value': 13}, {'id': 12, 'value': 13}]}
+
+158,2017-02-05.21-54-19,21:19,SAST:D8HA,,PLAYER_BLACKJACK,1536294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1533794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 22, 'value': 10}], 'dealer': [{'id': 46, 'value': 8}, {'id': 26, 'value': 1}]}
+
+175,2017-02-05.21-54-24,21:18,CQDA:CTD8,,PLAYER_BLACKJACK,1521294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1518794, 'cansplit': 'false', 'player': [{'id': 11, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 9, 'value': 10}, {'id': 46, 'value': 8}]}
+
+198,2017-02-05.21-54-30,21:12,STSA:HJD2,,PLAYER_BLACKJACK,1501294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1498794, 'cansplit': 'false', 'player': [{'id': 22, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 36, 'value': 11}, {'id': 40, 'value': 2}]}
+
+228,2017-02-05.21-54-39,21:9,SKSA:S3H6,,PLAYER_BLACKJACK,1496294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1493794, 'cansplit': 'false', 'player': [{'id': 25, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 15, 'value': 3}, {'id': 31, 'value': 6}]}
+
+263,2017-02-05.21-54-49,21:20,SADJ:HAH9,,PLAYER_BLACKJACK,1516294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1513794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 26, 'value': 1}, {'id': 34, 'value': 9}]}
+
+264,2017-02-05.21-54-49,21:14,CTDA:D5C9,,PLAYER_BLACKJACK,1521294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1518794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 39, 'value': 1}], 'dealer': [{'id': 43, 'value': 5}, {'id': 8, 'value': 9}]}
+
+293,2017-02-05.21-54-56,21:18,CJDA:C7SA,,PLAYER_BLACKJACK,1536294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1533794, 'cansplit': 'false', 'player': [{'id': 10, 'value': 11}, {'id': 39, 'value': 1}], 'dealer': [{'id': 6, 'value': 7}, {'id': 13, 'value': 1}]}
+
+297,2017-02-05.21-54-57,21:13,CAHK:STH3,,PLAYER_BLACKJACK,1541294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1538794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 22, 'value': 10}, {'id': 28, 'value': 3}]}
+
+298,2017-02-05.21-54-57,21:11,DKHA:D8S3,,PLAYER_BLACKJACK,1546294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1543794, 'cansplit': 'false', 'player': [{'id': 51, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 46, 'value': 8}, {'id': 15, 'value': 3}]}
+
+316,2017-02-05.21-55-01,21:17,HJDA:C7HQ,,PLAYER_BLACKJACK,1516294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1513794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 39, 'value': 1}], 'dealer': [{'id': 6, 'value': 7}, {'id': 37, 'value': 12}]}
+
+350,2017-02-05.21-55-10,21:20,SKSA:DAD9,,PLAYER_BLACKJACK,1471294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1468794, 'cansplit': 'false', 'player': [{'id': 25, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 39, 'value': 1}, {'id': 47, 'value': 9}]}
+
+356,2017-02-05.21-55-11,21:18,CACT:CKC8,,PLAYER_BLACKJACK,1451294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1448794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 9, 'value': 10}], 'dealer': [{'id': 12, 'value': 13}, {'id': 7, 'value': 8}]}
+
+357,2017-02-05.21-55-12,21:15,SADT:S6S9,,PLAYER_BLACKJACK,1456294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1453794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 48, 'value': 10}], 'dealer': [{'id': 18, 'value': 6}, {'id': 21, 'value': 9}]}
+
+365,2017-02-05.21-55-14,21:11,DQDA:S9D2,,PLAYER_BLACKJACK,1461294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1458794, 'cansplit': 'false', 'player': [{'id': 50, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 21, 'value': 9}, {'id': 40, 'value': 2}]}
+
+369,2017-02-05.21-55-15,21:20,SKHA:SQCT,,PLAYER_BLACKJACK,1486294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1483794, 'cansplit': 'false', 'player': [{'id': 25, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 24, 'value': 12}, {'id': 9, 'value': 10}]}
+
+416,2017-02-05.21-55-27,21:18,STHA:D8DT,,PLAYER_BLACKJACK,1426294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1423794, 'cansplit': 'false', 'player': [{'id': 22, 'value': 10}, {'id': 26, 'value': 1}], 'dealer': [{'id': 46, 'value': 8}, {'id': 48, 'value': 10}]}
+
+427,2017-02-05.21-55-29,21:11,CKSA:C5S6,,PLAYER_BLACKJACK,1421294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1418794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 4, 'value': 5}, {'id': 18, 'value': 6}]}
+
+464,2017-02-05.21-55-39,21:17,HADJ:S7DQ,,PLAYER_BLACKJACK,1411294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1408794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 19, 'value': 7}, {'id': 50, 'value': 12}]}
+
+478,2017-02-05.21-55-42,21:6,DADJ:H4H2,,PLAYER_BLACKJACK,1401294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1398794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 29, 'value': 4}, {'id': 27, 'value': 2}]}
+
+483,2017-02-05.21-55-44,21:12,HQHA:H2CK,,PLAYER_BLACKJACK,1411294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1408794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 26, 'value': 1}], 'dealer': [{'id': 27, 'value': 2}, {'id': 12, 'value': 13}]}
+
+555,2017-02-05.21-56-03,21:12,HKDA:H9S3,,PLAYER_BLACKJACK,1406294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1403794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 34, 'value': 9}, {'id': 15, 'value': 3}]}
+
+577,2017-02-05.21-56-09,21:19,CKHA:DQD9,,PLAYER_BLACKJACK,1431294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1428794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 50, 'value': 12}, {'id': 47, 'value': 9}]}
+
+581,2017-02-05.21-56-09,21:16,SAHT:DJS6,,PLAYER_BLACKJACK,1436294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1433794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 49, 'value': 11}, {'id': 18, 'value': 6}]}
+
+596,2017-02-05.21-56-13,21:11,CQDA:D6D5,,PLAYER_BLACKJACK,1431294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1428794, 'cansplit': 'false', 'player': [{'id': 11, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 44, 'value': 6}, {'id': 43, 'value': 5}]}
+
+598,2017-02-05.21-56-13,21:13,DAHT:CKH3,,PLAYER_BLACKJACK,1431294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1428794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 12, 'value': 13}, {'id': 28, 'value': 3}]}
+
+612,2017-02-05.21-56-17,21:16,DADT:C6CK,,PLAYER_BLACKJACK,1421294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1418794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 48, 'value': 10}], 'dealer': [{'id': 5, 'value': 6}, {'id': 12, 'value': 13}]}
+
+613,2017-02-05.21-56-17,21:19,DQSA:CTH9,,PLAYER_BLACKJACK,1426294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1423794, 'cansplit': 'false', 'player': [{'id': 50, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 9, 'value': 10}, {'id': 34, 'value': 9}]}
+
+665,2017-02-05.21-56-31,21:15,HAHT:H9C6,,PLAYER_BLACKJACK,1401294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1398794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 34, 'value': 9}, {'id': 5, 'value': 6}]}
+
+704,2017-02-05.21-56-41,21:19,CACQ:DKC9,,PLAYER_BLACKJACK,1371294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1368794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 11, 'value': 12}], 'dealer': [{'id': 51, 'value': 13}, {'id': 8, 'value': 9}]}
+
+732,2017-02-05.21-56-48,21:7,DACK:S4S3,,PLAYER_BLACKJACK,1376294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1373794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 12, 'value': 13}], 'dealer': [{'id': 16, 'value': 4}, {'id': 15, 'value': 3}]}
+
+738,2017-02-05.21-56-50,21:14,HAHK:S5D9,,PLAYER_BLACKJACK,1386294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1383794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 17, 'value': 5}, {'id': 47, 'value': 9}]}
+
+741,2017-02-05.21-56-50,21:19,SASJ:H9SK,,PLAYER_BLACKJACK,1386294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1383794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 23, 'value': 11}], 'dealer': [{'id': 34, 'value': 9}, {'id': 25, 'value': 13}]}
+
+747,2017-02-05.21-56-52,21:9,SAHT:D5D4,,PLAYER_BLACKJACK,1391294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1388794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 43, 'value': 5}, {'id': 42, 'value': 4}]}
+
+861,2017-02-05.21-57-22,21:13,CTSA:C9H4,,PLAYER_BLACKJACK,1441294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1438794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 8, 'value': 9}, {'id': 29, 'value': 4}]}
+
+866,2017-02-05.21-57-23,21:21,CTHA:HKSA,,PLAYER_BLACKJACK,1431294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 1423794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 26, 'value': 1}], 'dealer': [{'id': 38, 'value': 13}, {'id': 13, 'value': 1}]}
+
+899,2017-02-05.21-57-31,21:10,SQCA:S2H8,,PLAYER_BLACKJACK,1421294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1418794, 'cansplit': 'false', 'player': [{'id': 24, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 14, 'value': 2}, {'id': 33, 'value': 8}]}
+
+923,2017-02-05.21-57-37,21:14,HKCA:S4DJ,,PLAYER_BLACKJACK,1456294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1453794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 0, 'value': 1}], 'dealer': [{'id': 16, 'value': 4}, {'id': 49, 'value': 11}]}
+
+936,2017-02-05.21-57-40,21:6,CADJ:D2S4,,PLAYER_BLACKJACK,1456294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1453794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 40, 'value': 2}, {'id': 16, 'value': 4}]}
+
+968,2017-02-05.21-57-48,21:19,CKCA:S9CJ,,PLAYER_BLACKJACK,1456294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1453794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 0, 'value': 1}], 'dealer': [{'id': 21, 'value': 9}, {'id': 10, 'value': 11}]}
+
+1005,2017-02-05.21-57-58,21:20,HQSA:SKDT,,PLAYER_BLACKJACK,1461294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1458794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 25, 'value': 13}, {'id': 48, 'value': 10}]}
+
+1033,2017-02-05.21-58-05,21:10,DACK:H2S8,,PLAYER_BLACKJACK,1476294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1473794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 12, 'value': 13}], 'dealer': [{'id': 27, 'value': 2}, {'id': 20, 'value': 8}]}
+
+1060,2017-02-05.21-58-11,21:21,SASJ:DAHK,,PLAYER_BLACKJACK,1481294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 1473794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 23, 'value': 11}], 'dealer': [{'id': 39, 'value': 1}, {'id': 38, 'value': 13}]}
+
+1080,2017-02-05.21-58-16,21:9,HQDA:D6S3,,PLAYER_BLACKJACK,1511294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1508794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 44, 'value': 6}, {'id': 15, 'value': 3}]}
+
+1086,2017-02-05.21-58-18,21:11,DAHT:C5D6,,PLAYER_BLACKJACK,1511294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1508794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 4, 'value': 5}, {'id': 44, 'value': 6}]}
+
+1091,2017-02-05.21-58-19,21:13,CADT:DKC3,,PLAYER_BLACKJACK,1516294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1513794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 48, 'value': 10}], 'dealer': [{'id': 51, 'value': 13}, {'id': 2, 'value': 3}]}
+
+1105,2017-02-05.21-58-23,21:19,HAHT:S9DJ,,PLAYER_BLACKJACK,1506294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1503794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 21, 'value': 9}, {'id': 49, 'value': 11}]}
+
+1135,2017-02-05.21-58-31,21:10,CTCA:D6H4,,PLAYER_BLACKJACK,1431294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1428794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 0, 'value': 1}], 'dealer': [{'id': 44, 'value': 6}, {'id': 29, 'value': 4}]}
+
+1142,2017-02-05.21-58-33,21:13,CAHJ:HQH3,,PLAYER_BLACKJACK,1416294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1413794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 36, 'value': 11}], 'dealer': [{'id': 37, 'value': 12}, {'id': 28, 'value': 3}]}
+
+1152,2017-02-05.21-58-36,21:11,SJHA:S7D4,,PLAYER_BLACKJACK,1406294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1403794, 'cansplit': 'false', 'player': [{'id': 23, 'value': 11}, {'id': 26, 'value': 1}], 'dealer': [{'id': 19, 'value': 7}, {'id': 42, 'value': 4}]}
+
+1153,2017-02-05.21-58-36,21:13,DAHQ:D3CT,,PLAYER_BLACKJACK,1411294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1408794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 41, 'value': 3}, {'id': 9, 'value': 10}]}
+
+1194,2017-02-05.21-58-47,21:14,SQHA:D4CQ,,PLAYER_BLACKJACK,1376294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1373794, 'cansplit': 'false', 'player': [{'id': 24, 'value': 12}, {'id': 26, 'value': 1}], 'dealer': [{'id': 42, 'value': 4}, {'id': 11, 'value': 12}]}
+
+1197,2017-02-05.21-58-48,21:19,DKSA:CQD9,,PLAYER_BLACKJACK,1371294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1368794, 'cansplit': 'false', 'player': [{'id': 51, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 11, 'value': 12}, {'id': 47, 'value': 9}]}
+
+1211,2017-02-05.21-58-51,21:18,SJSA:DQC8,,PLAYER_BLACKJACK,1391294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1388794, 'cansplit': 'false', 'player': [{'id': 23, 'value': 11}, {'id': 13, 'value': 1}], 'dealer': [{'id': 50, 'value': 12}, {'id': 7, 'value': 8}]}
+
+1271,2017-02-05.21-59-05,21:11,SKSA:H3C8,,PLAYER_BLACKJACK,1291294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1288794, 'cansplit': 'false', 'player': [{'id': 25, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 28, 'value': 3}, {'id': 7, 'value': 8}]}
+
+1273,2017-02-05.21-59-06,21:9,HQSA:C5H4,,PLAYER_BLACKJACK,1291294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1288794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 4, 'value': 5}, {'id': 29, 'value': 4}]}
+
+1325,2017-02-05.21-59-19,21:15,HJSA:D6S9,,PLAYER_BLACKJACK,1301294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1298794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 13, 'value': 1}], 'dealer': [{'id': 44, 'value': 6}, {'id': 21, 'value': 9}]}
+
+1333,2017-02-05.21-59-21,21:16,DTDA:STD6,,PLAYER_BLACKJACK,1336294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1333794, 'cansplit': 'false', 'player': [{'id': 48, 'value': 10}, {'id': 39, 'value': 1}], 'dealer': [{'id': 22, 'value': 10}, {'id': 44, 'value': 6}]}
+
+1359,2017-02-05.21-59-28,21:18,HQSA:H9S9,,PLAYER_BLACKJACK,1351294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1348794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 34, 'value': 9}, {'id': 21, 'value': 9}]}
+
+1369,2017-02-05.21-59-30,21:13,SAHK:HTC3,,PLAYER_BLACKJACK,1336294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1333794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 35, 'value': 10}, {'id': 2, 'value': 3}]}
+
+1371,2017-02-05.21-59-31,21:16,CADK:CQD6,,PLAYER_BLACKJACK,1346294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1343794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 51, 'value': 13}], 'dealer': [{'id': 11, 'value': 12}, {'id': 44, 'value': 6}]}
+
+1373,2017-02-05.21-59-31,21:10,DKCA:H2D8,,PLAYER_BLACKJACK,1346294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1343794, 'cansplit': 'false', 'player': [{'id': 51, 'value': 13}, {'id': 0, 'value': 1}], 'dealer': [{'id': 27, 'value': 2}, {'id': 46, 'value': 8}]}
+
+1407,2017-02-05.21-59-39,21:16,DJCA:D9D7,,PLAYER_BLACKJACK,1306294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1303794, 'cansplit': 'false', 'player': [{'id': 49, 'value': 11}, {'id': 0, 'value': 1}], 'dealer': [{'id': 47, 'value': 9}, {'id': 45, 'value': 7}]}
+
+1443,2017-02-05.21-59-49,21:18,HADT:STS8,,PLAYER_BLACKJACK,1296294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1293794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 48, 'value': 10}], 'dealer': [{'id': 22, 'value': 10}, {'id': 20, 'value': 8}]}
+
+1504,2017-02-05.22-00-04,21:10,CQCA:H5C5,,PLAYER_BLACKJACK,1166294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1163794, 'cansplit': 'false', 'player': [{'id': 11, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 30, 'value': 5}, {'id': 4, 'value': 5}]}
+
+1515,2017-02-05.22-00-06,21:16,STSA:SQC6,,PLAYER_BLACKJACK,1161294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1158794, 'cansplit': 'false', 'player': [{'id': 22, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 24, 'value': 12}, {'id': 5, 'value': 6}]}
+
+1521,2017-02-05.22-00-08,21:10,HQDA:S5D5,,PLAYER_BLACKJACK,1171294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1168794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 17, 'value': 5}, {'id': 43, 'value': 5}]}
+
+1578,2017-02-05.22-00-23,21:5,DKDA:H2C3,,PLAYER_BLACKJACK,1071294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1068794, 'cansplit': 'false', 'player': [{'id': 51, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 27, 'value': 2}, {'id': 2, 'value': 3}]}
+
+1579,2017-02-05.22-00-23,21:8,DQCA:D6H2,,PLAYER_BLACKJACK,1076294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1073794, 'cansplit': 'false', 'player': [{'id': 50, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 44, 'value': 6}, {'id': 27, 'value': 2}]}
+
+1590,2017-02-05.22-00-26,21:20,HASJ:CKDQ,,PLAYER_BLACKJACK,1071294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1068794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 23, 'value': 11}], 'dealer': [{'id': 12, 'value': 13}, {'id': 50, 'value': 12}]}
+
+1592,2017-02-05.22-00-27,21:13,DASK:S3DQ,,PLAYER_BLACKJACK,1071294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1068794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 15, 'value': 3}, {'id': 50, 'value': 12}]}
+
+1593,2017-02-05.22-00-27,21:16,CKSA:C5HA,,PLAYER_BLACKJACK,1076294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1073794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 4, 'value': 5}, {'id': 26, 'value': 1}]}
+
+1596,2017-02-05.22-00-28,21:15,CAST:H9H6,,PLAYER_BLACKJACK,1071294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1068794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 22, 'value': 10}], 'dealer': [{'id': 34, 'value': 9}, {'id': 31, 'value': 6}]}
+
+1613,2017-02-05.22-00-32,21:13,DASK:HJS3,,PLAYER_BLACKJACK,1081294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1078794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 36, 'value': 11}, {'id': 15, 'value': 3}]}
+
+1663,2017-02-05.22-00-45,21:16,HTHA:H6SK,,PLAYER_BLACKJACK,1051294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 1048794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 26, 'value': 1}], 'dealer': [{'id': 31, 'value': 6}, {'id': 25, 'value': 13}]}
+
+1736,2017-02-05.22-01-04,21:20,DKDA:HJSK,,PLAYER_BLACKJACK,956294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 953794, 'cansplit': 'false', 'player': [{'id': 51, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 36, 'value': 11}, {'id': 25, 'value': 13}]}
+
+1781,2017-02-05.22-01-14,21:13,HTHA:H8D5,,PLAYER_BLACKJACK,906294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 903794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 26, 'value': 1}], 'dealer': [{'id': 33, 'value': 8}, {'id': 43, 'value': 5}]}
+
+1799,2017-02-05.22-01-19,21:10,SACK:D4C6,,PLAYER_BLACKJACK,891294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 888794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 12, 'value': 13}], 'dealer': [{'id': 42, 'value': 4}, {'id': 5, 'value': 6}]}
+
+1805,2017-02-05.22-01-21,21:17,CJCA:DAD6,,PLAYER_BLACKJACK,901294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 898794, 'cansplit': 'false', 'player': [{'id': 10, 'value': 11}, {'id': 0, 'value': 1}], 'dealer': [{'id': 39, 'value': 1}, {'id': 44, 'value': 6}]}
+
+1826,2017-02-05.22-01-26,21:21,HACJ:HKDA,,PLAYER_BLACKJACK,926294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 918794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 10, 'value': 11}], 'dealer': [{'id': 38, 'value': 13}, {'id': 39, 'value': 1}]}
+
+1909,2017-02-05.22-01-48,21:4,CACQ:H2S2,,PLAYER_BLACKJACK,831294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 828794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 11, 'value': 12}], 'dealer': [{'id': 27, 'value': 2}, {'id': 14, 'value': 2}]}
+
+1918,2017-02-05.22-01-50,21:18,HKDA:C8DQ,,PLAYER_BLACKJACK,811294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 808794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 7, 'value': 8}, {'id': 50, 'value': 12}]}
+
+1921,2017-02-05.22-01-51,21:15,CKSA:D6C9,,PLAYER_BLACKJACK,826294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 823794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 44, 'value': 6}, {'id': 8, 'value': 9}]}
+
+1926,2017-02-05.22-01-52,21:20,DACK:DTST,,PLAYER_BLACKJACK,836294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 833794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 12, 'value': 13}], 'dealer': [{'id': 48, 'value': 10}, {'id': 22, 'value': 10}]}
+
+1929,2017-02-05.22-01-53,21:16,DASK:CJD6,,PLAYER_BLACKJACK,836294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 833794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 10, 'value': 11}, {'id': 44, 'value': 6}]}
+
+1948,2017-02-05.22-01-58,21:19,CACJ:C9CT,,PLAYER_BLACKJACK,821294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 818794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 10, 'value': 11}], 'dealer': [{'id': 8, 'value': 9}, {'id': 9, 'value': 10}]}
+
+1979,2017-02-05.22-02-06,21:12,SAHQ:H4H8,,PLAYER_BLACKJACK,786294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 783794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 29, 'value': 4}, {'id': 33, 'value': 8}]}
+
+1981,2017-02-05.22-02-06,21:18,HQCA:CKC8,,PLAYER_BLACKJACK,796294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 793794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 12, 'value': 13}, {'id': 7, 'value': 8}]}
+
+1992,2017-02-05.22-02-09,21:11,STHA:C3S8,,PLAYER_BLACKJACK,791294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 788794, 'cansplit': 'false', 'player': [{'id': 22, 'value': 10}, {'id': 26, 'value': 1}], 'dealer': [{'id': 2, 'value': 3}, {'id': 20, 'value': 8}]}
+
+1999,2017-02-05.22-02-11,21:20,HTSA:SQSK,,PLAYER_BLACKJACK,801294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 798794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 24, 'value': 12}, {'id': 25, 'value': 13}]}
+
+2005,2017-02-05.22-02-12,21:8,HACK:H4C4,,PLAYER_BLACKJACK,801294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 798794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 12, 'value': 13}], 'dealer': [{'id': 29, 'value': 4}, {'id': 3, 'value': 4}]}
+
+2068,2017-02-05.22-02-28,21:7,DKHA:C5S2,,PLAYER_BLACKJACK,826294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 823794, 'cansplit': 'false', 'player': [{'id': 51, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 4, 'value': 5}, {'id': 14, 'value': 2}]}
+
+2080,2017-02-05.22-02-31,21:14,CACQ:C6H8,,PLAYER_BLACKJACK,826294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 823794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 11, 'value': 12}], 'dealer': [{'id': 5, 'value': 6}, {'id': 33, 'value': 8}]}
+
+2105,2017-02-05.22-02-37,21:20,HASJ:SKHK,,PLAYER_BLACKJACK,826294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 823794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 23, 'value': 11}], 'dealer': [{'id': 25, 'value': 13}, {'id': 38, 'value': 13}]}
+
+2193,2017-02-05.22-03-01,21:13,SAHK:S7C6,,PLAYER_BLACKJACK,866294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 863794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 19, 'value': 7}, {'id': 5, 'value': 6}]}
+
+2195,2017-02-05.22-03-02,21:17,CQHA:DJD7,,PLAYER_BLACKJACK,876294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 873794, 'cansplit': 'false', 'player': [{'id': 11, 'value': 12}, {'id': 26, 'value': 1}], 'dealer': [{'id': 49, 'value': 11}, {'id': 45, 'value': 7}]}
+
+2197,2017-02-05.22-03-02,21:10,DAHJ:S7S3,,PLAYER_BLACKJACK,876294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 873794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 36, 'value': 11}], 'dealer': [{'id': 19, 'value': 7}, {'id': 15, 'value': 3}]}
+
+2211,2017-02-05.22-03-06,21:8,SAHT:C3S5,,PLAYER_BLACKJACK,896294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 893794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 2, 'value': 3}, {'id': 17, 'value': 5}]}
+
+2226,2017-02-05.22-03-09,21:13,CACJ:S7D6,,PLAYER_BLACKJACK,866294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 863794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 10, 'value': 11}], 'dealer': [{'id': 19, 'value': 7}, {'id': 44, 'value': 6}]}
+
+2234,2017-02-05.22-03-11,21:14,SJCA:CTS4,,PLAYER_BLACKJACK,856294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 853794, 'cansplit': 'false', 'player': [{'id': 23, 'value': 11}, {'id': 0, 'value': 1}], 'dealer': [{'id': 9, 'value': 10}, {'id': 16, 'value': 4}]}
+
+2256,2017-02-05.22-03-17,21:13,CAST:S3DJ,,PLAYER_BLACKJACK,836294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 833794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 22, 'value': 10}], 'dealer': [{'id': 15, 'value': 3}, {'id': 49, 'value': 11}]}
+
+2270,2017-02-05.22-03-20,21:11,HADJ:S5D6,,PLAYER_BLACKJACK,836294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 833794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 17, 'value': 5}, {'id': 44, 'value': 6}]}
+
+2302,2017-02-05.22-03-28,21:9,SQSA:H3D6,,PLAYER_BLACKJACK,861294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 858794, 'cansplit': 'false', 'player': [{'id': 24, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 28, 'value': 3}, {'id': 44, 'value': 6}]}
+
+2339,2017-02-05.22-03-39,21:18,CASJ:H8ST,,PLAYER_BLACKJACK,871294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 868794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 23, 'value': 11}], 'dealer': [{'id': 33, 'value': 8}, {'id': 22, 'value': 10}]}
+
+2358,2017-02-05.22-03-44,21:17,DJCA:C7CK,,PLAYER_BLACKJACK,916294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 913794, 'cansplit': 'false', 'player': [{'id': 49, 'value': 11}, {'id': 0, 'value': 1}], 'dealer': [{'id': 6, 'value': 7}, {'id': 12, 'value': 13}]}
+
+2406,2017-02-05.22-03-56,21:17,DKDA:DTH7,,PLAYER_BLACKJACK,866294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 863794, 'cansplit': 'false', 'player': [{'id': 51, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 48, 'value': 10}, {'id': 32, 'value': 7}]}
+
+2425,2017-02-05.22-04-01,21:16,SASQ:H6CQ,,PLAYER_BLACKJACK,861294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 858794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 24, 'value': 12}], 'dealer': [{'id': 31, 'value': 6}, {'id': 11, 'value': 12}]}
+
+2466,2017-02-05.22-04-11,21:19,SQCA:C9HQ,,PLAYER_BLACKJACK,816294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 813794, 'cansplit': 'false', 'player': [{'id': 24, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 8, 'value': 9}, {'id': 37, 'value': 12}]}
+
+2474,2017-02-05.22-04-13,21:18,CADT:D7DA,,PLAYER_BLACKJACK,831294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 828794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 48, 'value': 10}], 'dealer': [{'id': 45, 'value': 7}, {'id': 39, 'value': 1}]}
+
+2495,2017-02-05.22-04-18,21:8,DASQ:S3C5,,PLAYER_BLACKJACK,841294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 838794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 24, 'value': 12}], 'dealer': [{'id': 15, 'value': 3}, {'id': 4, 'value': 5}]}
+
+2586,2017-02-05.22-04-43,21:13,HAHT:S3SK,,PLAYER_BLACKJACK,861294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 858794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 15, 'value': 3}, {'id': 25, 'value': 13}]}
+
+2607,2017-02-05.22-04-47,21:15,CAHQ:H5DQ,,PLAYER_BLACKJACK,846294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 843794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 30, 'value': 5}, {'id': 50, 'value': 12}]}
+
+2644,2017-02-05.22-04-56,21:11,SADJ:C7C4,,PLAYER_BLACKJACK,886294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 883794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 6, 'value': 7}, {'id': 3, 'value': 4}]}
+
+2652,2017-02-05.22-04-58,21:20,SAHJ:HKHQ,,PLAYER_BLACKJACK,906294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 903794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 36, 'value': 11}], 'dealer': [{'id': 38, 'value': 13}, {'id': 37, 'value': 12}]}
+
+2655,2017-02-05.22-04-59,21:8,CAHQ:H6H2,,PLAYER_BLACKJACK,911294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 908794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 31, 'value': 6}, {'id': 27, 'value': 2}]}
+
+2668,2017-02-05.22-05-02,21:10,STCA:H2H8,,PLAYER_BLACKJACK,906294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 903794, 'cansplit': 'false', 'player': [{'id': 22, 'value': 10}, {'id': 0, 'value': 1}], 'dealer': [{'id': 27, 'value': 2}, {'id': 33, 'value': 8}]}
+
+2712,2017-02-05.22-05-15,21:20,DJSA:CKCT,,PLAYER_BLACKJACK,951294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 948794, 'cansplit': 'false', 'player': [{'id': 49, 'value': 11}, {'id': 13, 'value': 1}], 'dealer': [{'id': 12, 'value': 13}, {'id': 9, 'value': 10}]}
+
+2735,2017-02-05.22-05-20,21:14,CTSA:D5C9,,PLAYER_BLACKJACK,931294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 928794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 43, 'value': 5}, {'id': 8, 'value': 9}]}
+
+2755,2017-02-05.22-05-26,21:20,CAHJ:CQCT,,PLAYER_BLACKJACK,871294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 868794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 36, 'value': 11}], 'dealer': [{'id': 11, 'value': 12}, {'id': 9, 'value': 10}]}
+
+2770,2017-02-05.22-05-29,21:20,SADT:HQSQ,,PLAYER_BLACKJACK,871294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 868794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 48, 'value': 10}], 'dealer': [{'id': 37, 'value': 12}, {'id': 24, 'value': 12}]}
+
+2781,2017-02-05.22-05-32,21:13,HAHT:SJS3,,PLAYER_BLACKJACK,876294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 873794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 23, 'value': 11}, {'id': 15, 'value': 3}]}
+
+2787,2017-02-05.22-05-33,21:17,DAHK:SAH6,,PLAYER_BLACKJACK,866294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 863794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 13, 'value': 1}, {'id': 31, 'value': 6}]}
+
+2801,2017-02-05.22-05-37,21:15,SQCA:STH5,,PLAYER_BLACKJACK,866294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 863794, 'cansplit': 'false', 'player': [{'id': 24, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 22, 'value': 10}, {'id': 30, 'value': 5}]}
+
+2892,2017-02-05.22-06-01,21:20,DQDA:STSJ,,PLAYER_BLACKJACK,881294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 878794, 'cansplit': 'false', 'player': [{'id': 50, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 22, 'value': 10}, {'id': 23, 'value': 11}]}
+
+2965,2017-02-05.22-06-20,21:15,SADQ:DJS5,,PLAYER_BLACKJACK,836294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 833794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 50, 'value': 12}], 'dealer': [{'id': 49, 'value': 11}, {'id': 17, 'value': 5}]}
+
+2969,2017-02-05.22-06-21,21:21,DACT:SJHA,,PLAYER_BLACKJACK,841294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 833794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 9, 'value': 10}], 'dealer': [{'id': 23, 'value': 11}, {'id': 26, 'value': 1}]}
+
+2973,2017-02-05.22-06-22,21:19,CJHA:HKC9,,PLAYER_BLACKJACK,841294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 838794, 'cansplit': 'false', 'player': [{'id': 10, 'value': 11}, {'id': 26, 'value': 1}], 'dealer': [{'id': 38, 'value': 13}, {'id': 8, 'value': 9}]}
+
+2980,2017-02-05.22-06-24,21:20,CKDA:SQCQ,,PLAYER_BLACKJACK,836294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 833794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 24, 'value': 12}, {'id': 11, 'value': 12}]}
+
+2983,2017-02-05.22-06-25,21:13,CAHT:D2DA,,PLAYER_BLACKJACK,841294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 838794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 40, 'value': 2}, {'id': 39, 'value': 1}]}
+
+3000,2017-02-05.22-06-29,21:17,CJDA:C8S9,,PLAYER_BLACKJACK,821294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 818794, 'cansplit': 'false', 'player': [{'id': 10, 'value': 11}, {'id': 39, 'value': 1}], 'dealer': [{'id': 7, 'value': 8}, {'id': 21, 'value': 9}]}
+
+3026,2017-02-05.22-06-36,21:12,HADQ:H3S9,,PLAYER_BLACKJACK,841294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 838794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 50, 'value': 12}], 'dealer': [{'id': 28, 'value': 3}, {'id': 21, 'value': 9}]}
+
+3035,2017-02-05.22-06-38,21:18,HJSA:CKS8,,PLAYER_BLACKJACK,851294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 848794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 13, 'value': 1}], 'dealer': [{'id': 12, 'value': 13}, {'id': 20, 'value': 8}]}
+
+3043,2017-02-05.22-06-40,21:21,DADK:SASJ,,PLAYER_BLACKJACK,836294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 828794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 51, 'value': 13}], 'dealer': [{'id': 13, 'value': 1}, {'id': 23, 'value': 11}]}
+
+3067,2017-02-05.22-06-46,21:12,CTHA:C6D6,,PLAYER_BLACKJACK,791294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 788794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 26, 'value': 1}], 'dealer': [{'id': 5, 'value': 6}, {'id': 44, 'value': 6}]}
+
+3168,2017-02-05.22-07-11,21:13,SASK:SJH3,,PLAYER_BLACKJACK,756294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 753794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 23, 'value': 11}, {'id': 28, 'value': 3}]}
+
+3197,2017-02-05.22-07-18,21:9,CADJ:H2S7,,PLAYER_BLACKJACK,766294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 763794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 27, 'value': 2}, {'id': 19, 'value': 7}]}
+
+3199,2017-02-05.22-07-18,21:15,HKCA:SKS5,,PLAYER_BLACKJACK,776294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 773794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 0, 'value': 1}], 'dealer': [{'id': 25, 'value': 13}, {'id': 17, 'value': 5}]}
+
+3213,2017-02-05.22-07-22,21:20,SASK:HJDJ,,PLAYER_BLACKJACK,776294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 773794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 36, 'value': 11}, {'id': 49, 'value': 11}]}
+
+3234,2017-02-05.22-07-27,21:18,CADJ:S8CK,,PLAYER_BLACKJACK,781294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 778794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 20, 'value': 8}, {'id': 12, 'value': 13}]}
+
+3238,2017-02-05.22-07-28,21:13,DACT:C4C9,,PLAYER_BLACKJACK,786294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 783794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 9, 'value': 10}], 'dealer': [{'id': 3, 'value': 4}, {'id': 8, 'value': 9}]}
+
+3269,2017-02-05.22-07-36,21:11,DJSA:H2C9,,PLAYER_BLACKJACK,746294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 743794, 'cansplit': 'false', 'player': [{'id': 49, 'value': 11}, {'id': 13, 'value': 1}], 'dealer': [{'id': 27, 'value': 2}, {'id': 8, 'value': 9}]}
+
+3306,2017-02-05.22-07-46,21:11,SACK:H8D3,,PLAYER_BLACKJACK,721294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 718794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 12, 'value': 13}], 'dealer': [{'id': 33, 'value': 8}, {'id': 41, 'value': 3}]}
+
+3336,2017-02-05.22-07-54,21:19,HQDA:SKC9,,PLAYER_BLACKJACK,721294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 718794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 25, 'value': 13}, {'id': 8, 'value': 9}]}
+
+3357,2017-02-05.22-08-00,21:20,CKSA:DJHJ,,PLAYER_BLACKJACK,731294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 728794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 49, 'value': 11}, {'id': 36, 'value': 11}]}
+
+3364,2017-02-05.22-08-02,21:12,CKCA:C7H5,,PLAYER_BLACKJACK,731294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 728794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 0, 'value': 1}], 'dealer': [{'id': 6, 'value': 7}, {'id': 30, 'value': 5}]}
+
+3404,2017-02-05.22-08-11,21:20,HQCA:SKCQ,,PLAYER_BLACKJACK,716294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 713794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 25, 'value': 13}, {'id': 11, 'value': 12}]}
+
+3408,2017-02-05.22-08-12,21:20,HADJ:STSQ,,PLAYER_BLACKJACK,711294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 708794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 22, 'value': 10}, {'id': 24, 'value': 12}]}
+
+3409,2017-02-05.22-08-12,21:13,CAST:D2DA,,PLAYER_BLACKJACK,716294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 713794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 22, 'value': 10}], 'dealer': [{'id': 40, 'value': 2}, {'id': 39, 'value': 1}]}
+
+3412,2017-02-05.22-08-13,21:16,HKDA:SAS5,,PLAYER_BLACKJACK,731294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 728794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 13, 'value': 1}, {'id': 17, 'value': 5}]}
+
+3418,2017-02-05.22-08-15,21:15,DKDA:D9D6,,PLAYER_BLACKJACK,741294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 738794, 'cansplit': 'false', 'player': [{'id': 51, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 47, 'value': 9}, {'id': 44, 'value': 6}]}
+
+3447,2017-02-05.22-08-22,21:14,DKHA:H6C8,,PLAYER_BLACKJACK,736294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 733794, 'cansplit': 'false', 'player': [{'id': 51, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 31, 'value': 6}, {'id': 7, 'value': 8}]}
+
+3454,2017-02-05.22-08-24,21:21,CASK:STHA,,PLAYER_BLACKJACK,746294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 738794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 22, 'value': 10}, {'id': 26, 'value': 1}]}
+
+3470,2017-02-05.22-08-28,21:20,HACJ:DTDQ,,PLAYER_BLACKJACK,726294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 723794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 10, 'value': 11}], 'dealer': [{'id': 48, 'value': 10}, {'id': 50, 'value': 12}]}
+
+3495,2017-02-05.22-08-35,21:16,SKDA:H6SQ,,PLAYER_BLACKJACK,696294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 693794, 'cansplit': 'false', 'player': [{'id': 25, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 31, 'value': 6}, {'id': 24, 'value': 12}]}
+
+3512,2017-02-05.22-08-38,21:17,DQHA:C9C8,,PLAYER_BLACKJACK,686294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 683794, 'cansplit': 'false', 'player': [{'id': 50, 'value': 12}, {'id': 26, 'value': 1}], 'dealer': [{'id': 8, 'value': 9}, {'id': 7, 'value': 8}]}
+
+3513,2017-02-05.22-08-39,21:18,CAHK:H8DJ,,PLAYER_BLACKJACK,691294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 688794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 33, 'value': 8}, {'id': 49, 'value': 11}]}
+
+3556,2017-02-05.22-08-50,21:11,CKSA:D7S4,,PLAYER_BLACKJACK,711294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 708794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 45, 'value': 7}, {'id': 16, 'value': 4}]}
+
+3561,2017-02-05.22-08-51,21:7,HADQ:S3S4,,PLAYER_BLACKJACK,726294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 723794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 50, 'value': 12}], 'dealer': [{'id': 15, 'value': 3}, {'id': 16, 'value': 4}]}
+
+3577,2017-02-05.22-08-55,21:15,CJHA:S7H8,,PLAYER_BLACKJACK,736294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 733794, 'cansplit': 'false', 'player': [{'id': 10, 'value': 11}, {'id': 26, 'value': 1}], 'dealer': [{'id': 19, 'value': 7}, {'id': 33, 'value': 8}]}
+
+3605,2017-02-05.22-09-02,21:10,CAHK:C2H8,,PLAYER_BLACKJACK,716294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 713794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 1, 'value': 2}, {'id': 33, 'value': 8}]}
+
+3606,2017-02-05.22-09-02,21:12,HAHT:SJS2,,PLAYER_BLACKJACK,721294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 718794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 23, 'value': 11}, {'id': 14, 'value': 2}]}
+
+3613,2017-02-05.22-09-04,21:14,DAHK:C4DK,,PLAYER_BLACKJACK,706294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 703794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 3, 'value': 4}, {'id': 51, 'value': 13}]}
+
+3615,2017-02-05.22-09-04,21:12,CQHA:S3S9,,PLAYER_BLACKJACK,706294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 703794, 'cansplit': 'false', 'player': [{'id': 11, 'value': 12}, {'id': 26, 'value': 1}], 'dealer': [{'id': 15, 'value': 3}, {'id': 21, 'value': 9}]}
+
+3621,2017-02-05.22-09-06,21:15,HACK:D7C8,,PLAYER_BLACKJACK,701294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 698794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 12, 'value': 13}], 'dealer': [{'id': 45, 'value': 7}, {'id': 7, 'value': 8}]}
+
+3646,2017-02-05.22-09-12,21:20,HQDA:CQSK,,PLAYER_BLACKJACK,701294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 698794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 11, 'value': 12}, {'id': 25, 'value': 13}]}
+
+3662,2017-02-05.22-09-16,21:21,CACK:HKSA,,PLAYER_BLACKJACK,731294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 723794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 12, 'value': 13}], 'dealer': [{'id': 38, 'value': 13}, {'id': 13, 'value': 1}]}
+
+3688,2017-02-05.22-09-23,21:15,CQHA:D5HT,,PLAYER_BLACKJACK,701294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 698794, 'cansplit': 'false', 'player': [{'id': 11, 'value': 12}, {'id': 26, 'value': 1}], 'dealer': [{'id': 43, 'value': 5}, {'id': 35, 'value': 10}]}
+
+3689,2017-02-05.22-09-23,21:16,HTSA:H5DA,,PLAYER_BLACKJACK,706294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 703794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 30, 'value': 5}, {'id': 39, 'value': 1}]}
+
+3694,2017-02-05.22-09-24,21:14,DQSA:SQD4,,PLAYER_BLACKJACK,721294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 718794, 'cansplit': 'false', 'player': [{'id': 50, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 24, 'value': 12}, {'id': 42, 'value': 4}]}
+
+3698,2017-02-05.22-09-25,21:8,DACJ:H5D3,,PLAYER_BLACKJACK,711294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 708794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 10, 'value': 11}], 'dealer': [{'id': 30, 'value': 5}, {'id': 41, 'value': 3}]}
+
+3733,2017-02-05.22-09-33,21:20,CQCA:SJDK,,PLAYER_BLACKJACK,676294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 673794, 'cansplit': 'false', 'player': [{'id': 11, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 23, 'value': 11}, {'id': 51, 'value': 13}]}
+
+3768,2017-02-05.22-09-43,21:21,CACT:DKSA,,PLAYER_BLACKJACK,716294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 708794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 9, 'value': 10}], 'dealer': [{'id': 51, 'value': 13}, {'id': 13, 'value': 1}]}
+
+3792,2017-02-05.22-09-49,21:20,DAHQ:STSQ,,PLAYER_BLACKJACK,691294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 688794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 22, 'value': 10}, {'id': 24, 'value': 12}]}
+
+3896,2017-02-05.22-10-18,21:16,CACJ:DKS6,,PLAYER_BLACKJACK,601294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 598794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 10, 'value': 11}], 'dealer': [{'id': 51, 'value': 13}, {'id': 18, 'value': 6}]}
+
+3907,2017-02-05.22-10-20,21:20,HAHK:HQDK,,PLAYER_BLACKJACK,616294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 613794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 37, 'value': 12}, {'id': 51, 'value': 13}]}
+
+3937,2017-02-05.22-10-28,21:9,CKDA:D3D6,,PLAYER_BLACKJACK,636294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 633794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 41, 'value': 3}, {'id': 44, 'value': 6}]}
+
+3944,2017-02-05.22-10-30,21:19,DQSA:HTC9,,PLAYER_BLACKJACK,646294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 643794, 'cansplit': 'false', 'player': [{'id': 50, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 35, 'value': 10}, {'id': 8, 'value': 9}]}
+
+3973,2017-02-05.22-10-37,21:12,HKDA:SAHA,,PLAYER_BLACKJACK,636294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 633794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 13, 'value': 1}, {'id': 26, 'value': 1}]}
+
+3980,2017-02-05.22-10-38,21:15,CASK:C5ST,,PLAYER_BLACKJACK,616294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 613794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 4, 'value': 5}, {'id': 22, 'value': 10}]}
+
+4015,2017-02-05.22-10-48,21:12,HAST:S2SK,,PLAYER_BLACKJACK,666294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 663794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 22, 'value': 10}], 'dealer': [{'id': 14, 'value': 2}, {'id': 25, 'value': 13}]}
+
+4081,2017-02-05.22-11-05,21:14,HJDA:H6H8,,PLAYER_BLACKJACK,656294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 653794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 39, 'value': 1}], 'dealer': [{'id': 31, 'value': 6}, {'id': 33, 'value': 8}]}
+
+4150,2017-02-05.22-11-23,21:13,CJCA:C8C5,,PLAYER_BLACKJACK,586294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 583794, 'cansplit': 'false', 'player': [{'id': 10, 'value': 11}, {'id': 0, 'value': 1}], 'dealer': [{'id': 7, 'value': 8}, {'id': 4, 'value': 5}]}
+
+4167,2017-02-05.22-11-27,21:21,DACT:SACJ,,PLAYER_BLACKJACK,596294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 588794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 9, 'value': 10}], 'dealer': [{'id': 13, 'value': 1}, {'id': 10, 'value': 11}]}
+
+4173,2017-02-05.22-11-28,21:11,CTHA:S5C6,,PLAYER_BLACKJACK,591294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 588794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 26, 'value': 1}], 'dealer': [{'id': 17, 'value': 5}, {'id': 5, 'value': 6}]}
+
+4185,2017-02-05.22-11-31,21:9,SQCA:S3S6,,PLAYER_BLACKJACK,571294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 568794, 'cansplit': 'false', 'player': [{'id': 24, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 15, 'value': 3}, {'id': 18, 'value': 6}]}
+
+4222,2017-02-05.22-11-40,21:17,HJCA:DTC7,,PLAYER_BLACKJACK,536294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 533794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 0, 'value': 1}], 'dealer': [{'id': 48, 'value': 10}, {'id': 6, 'value': 7}]}
+
+4229,2017-02-05.22-11-42,21:20,DQSA:C9HA,,PLAYER_BLACKJACK,556294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 553794, 'cansplit': 'false', 'player': [{'id': 50, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 8, 'value': 9}, {'id': 26, 'value': 1}]}
+
+4240,2017-02-05.22-11-45,21:15,HKDA:H9C6,,PLAYER_BLACKJACK,541294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 538794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 34, 'value': 9}, {'id': 5, 'value': 6}]}
+
+4252,2017-02-05.22-11-48,21:20,CADK:CTDJ,,PLAYER_BLACKJACK,531294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 528794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 51, 'value': 13}], 'dealer': [{'id': 9, 'value': 10}, {'id': 49, 'value': 11}]}
+
+4271,2017-02-05.22-11-53,21:19,CASQ:DKH9,,PLAYER_BLACKJACK,541294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 538794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 24, 'value': 12}], 'dealer': [{'id': 51, 'value': 13}, {'id': 34, 'value': 9}]}
+
+4273,2017-02-05.22-11-53,21:8,DAHQ:S4C4,,PLAYER_BLACKJACK,551294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 548794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 16, 'value': 4}, {'id': 3, 'value': 4}]}
+
+4275,2017-02-05.22-11-54,21:10,CQCA:H6D4,,PLAYER_BLACKJACK,561294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 558794, 'cansplit': 'false', 'player': [{'id': 11, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 31, 'value': 6}, {'id': 42, 'value': 4}]}
+
+4310,2017-02-05.22-12-03,21:11,CJDA:D6H5,,PLAYER_BLACKJACK,591294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 588794, 'cansplit': 'false', 'player': [{'id': 10, 'value': 11}, {'id': 39, 'value': 1}], 'dealer': [{'id': 44, 'value': 6}, {'id': 30, 'value': 5}]}
+
+4312,2017-02-05.22-12-03,21:16,DTCA:C6DQ,,PLAYER_BLACKJACK,601294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 598794, 'cansplit': 'false', 'player': [{'id': 48, 'value': 10}, {'id': 0, 'value': 1}], 'dealer': [{'id': 5, 'value': 6}, {'id': 50, 'value': 12}]}
+
+4317,2017-02-05.22-12-04,21:12,DAHJ:SQS2,,PLAYER_BLACKJACK,601294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 598794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 36, 'value': 11}], 'dealer': [{'id': 24, 'value': 12}, {'id': 14, 'value': 2}]}
+
+4402,2017-02-05.22-12-26,21:10,HQSA:S2D8,,PLAYER_BLACKJACK,481294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 478794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 14, 'value': 2}, {'id': 46, 'value': 8}]}
+
+4409,2017-02-05.22-12-28,21:19,HASK:H8SA,,PLAYER_BLACKJACK,511294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 508794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 33, 'value': 8}, {'id': 13, 'value': 1}]}
+
+4416,2017-02-05.22-12-30,21:16,HQCA:CJC6,,PLAYER_BLACKJACK,526294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 523794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 10, 'value': 11}, {'id': 5, 'value': 6}]}
+
+4417,2017-02-05.22-12-30,21:18,DTDA:S9H9,,PLAYER_BLACKJACK,531294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 528794, 'cansplit': 'false', 'player': [{'id': 48, 'value': 10}, {'id': 39, 'value': 1}], 'dealer': [{'id': 21, 'value': 9}, {'id': 34, 'value': 9}]}
+
+4427,2017-02-05.22-12-32,21:16,SKCA:C5SA,,PLAYER_BLACKJACK,496294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 493794, 'cansplit': 'false', 'player': [{'id': 25, 'value': 13}, {'id': 0, 'value': 1}], 'dealer': [{'id': 4, 'value': 5}, {'id': 13, 'value': 1}]}
+
+4461,2017-02-05.22-12-41,21:17,HTCA:D7CT,,PLAYER_BLACKJACK,516294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 513794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 0, 'value': 1}], 'dealer': [{'id': 45, 'value': 7}, {'id': 9, 'value': 10}]}
+
+4468,2017-02-05.22-12-42,21:20,HJSA:CJCT,,PLAYER_BLACKJACK,486294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 483794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 13, 'value': 1}], 'dealer': [{'id': 10, 'value': 11}, {'id': 9, 'value': 10}]}
+
+4489,2017-02-05.22-12-47,21:20,DJSA:SQST,,PLAYER_BLACKJACK,501294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 498794, 'cansplit': 'false', 'player': [{'id': 49, 'value': 11}, {'id': 13, 'value': 1}], 'dealer': [{'id': 24, 'value': 12}, {'id': 22, 'value': 10}]}
+
+4529,2017-02-05.22-12-58,21:17,SACT:S7DJ,,PLAYER_BLACKJACK,521294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 518794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 9, 'value': 10}], 'dealer': [{'id': 19, 'value': 7}, {'id': 49, 'value': 11}]}
+
+4578,2017-02-05.22-13-11,21:14,DKHA:CTH4,,PLAYER_BLACKJACK,536294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 533794, 'cansplit': 'false', 'player': [{'id': 51, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 9, 'value': 10}, {'id': 29, 'value': 4}]}
+
+4627,2017-02-05.22-13-24,21:16,SJHA:H6HQ,,PLAYER_BLACKJACK,591294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 588794, 'cansplit': 'false', 'player': [{'id': 23, 'value': 11}, {'id': 26, 'value': 1}], 'dealer': [{'id': 31, 'value': 6}, {'id': 37, 'value': 12}]}
+
+4636,2017-02-05.22-13-26,21:8,SACQ:C4H4,,PLAYER_BLACKJACK,601294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 598794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 11, 'value': 12}], 'dealer': [{'id': 3, 'value': 4}, {'id': 29, 'value': 4}]}
+
+4637,2017-02-05.22-13-26,21:12,DACT:DTD2,,PLAYER_BLACKJACK,606294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 603794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 9, 'value': 10}], 'dealer': [{'id': 48, 'value': 10}, {'id': 40, 'value': 2}]}
+
+4667,2017-02-05.22-13-34,21:19,HAHJ:C9HT,,PLAYER_BLACKJACK,581294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 578794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 36, 'value': 11}], 'dealer': [{'id': 8, 'value': 9}, {'id': 35, 'value': 10}]}
+
+4670,2017-02-05.22-13-35,21:13,SAHQ:CQS3,,PLAYER_BLACKJACK,586294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 583794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 11, 'value': 12}, {'id': 15, 'value': 3}]}
+
+4727,2017-02-05.22-13-50,21:12,DAHT:C2HJ,,PLAYER_BLACKJACK,606294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 603794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 1, 'value': 2}, {'id': 36, 'value': 11}]}
+
+4753,2017-02-05.22-13-56,21:19,HADK:CTH9,,PLAYER_BLACKJACK,641294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 638794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 51, 'value': 13}], 'dealer': [{'id': 9, 'value': 10}, {'id': 34, 'value': 9}]}
+
+4758,2017-02-05.22-13-57,21:10,HADT:S5C5,,PLAYER_BLACKJACK,656294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 653794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 48, 'value': 10}], 'dealer': [{'id': 17, 'value': 5}, {'id': 4, 'value': 5}]}
+
+4837,2017-02-05.22-14-18,21:11,DACK:D2D9,,PLAYER_BLACKJACK,636294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 633794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 12, 'value': 13}], 'dealer': [{'id': 40, 'value': 2}, {'id': 47, 'value': 9}]}
+
+4840,2017-02-05.22-14-19,21:12,HACJ:H2SQ,,PLAYER_BLACKJACK,636294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 633794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 10, 'value': 11}], 'dealer': [{'id': 27, 'value': 2}, {'id': 24, 'value': 12}]}
+
+4901,2017-02-05.22-14-34,21:14,HAHT:C5D9,,PLAYER_BLACKJACK,611294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 608794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 4, 'value': 5}, {'id': 47, 'value': 9}]}
+
+4964,2017-02-05.22-14-51,21:15,CASK:CKH5,,PLAYER_BLACKJACK,596294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 593794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 12, 'value': 13}, {'id': 30, 'value': 5}]}
+
+4985,2017-02-05.22-14-57,21:17,CACT:SQC7,,PLAYER_BLACKJACK,581294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 578794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 9, 'value': 10}], 'dealer': [{'id': 24, 'value': 12}, {'id': 6, 'value': 7}]}
+
+5021,2017-02-05.22-15-06,21:20,CADJ:CJDK,,PLAYER_BLACKJACK,571294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 568794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 10, 'value': 11}, {'id': 51, 'value': 13}]}
+
+5031,2017-02-05.22-15-09,21:16,HACJ:CKD6,,PLAYER_BLACKJACK,566294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 563794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 10, 'value': 11}], 'dealer': [{'id': 12, 'value': 13}, {'id': 44, 'value': 6}]}
+
+5037,2017-02-05.22-15-10,21:20,CJCA:DTDK,,PLAYER_BLACKJACK,591294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 588794, 'cansplit': 'false', 'player': [{'id': 10, 'value': 11}, {'id': 0, 'value': 1}], 'dealer': [{'id': 48, 'value': 10}, {'id': 51, 'value': 13}]}
+
+5043,2017-02-05.22-15-12,21:20,SQSA:HTDQ,,PLAYER_BLACKJACK,586294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 583794, 'cansplit': 'false', 'player': [{'id': 24, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 35, 'value': 10}, {'id': 50, 'value': 12}]}
+
+5047,2017-02-05.22-15-14,21:21,DAHJ:HADK,,PLAYER_BLACKJACK,581294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 573794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 36, 'value': 11}], 'dealer': [{'id': 26, 'value': 1}, {'id': 51, 'value': 13}]}
+
+5084,2017-02-05.22-15-26,21:20,CKSA:SJDQ,,PLAYER_BLACKJACK,586294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 583794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 23, 'value': 11}, {'id': 50, 'value': 12}]}
+
+5087,2017-02-05.22-15-27,21:15,HKDA:CTH5,,PLAYER_BLACKJACK,591294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 588794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 9, 'value': 10}, {'id': 30, 'value': 5}]}
+
+5100,2017-02-05.22-15-32,21:13,DADQ:C2HA,,PLAYER_BLACKJACK,581294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 578794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 50, 'value': 12}], 'dealer': [{'id': 1, 'value': 2}, {'id': 26, 'value': 1}]}
+
+5102,2017-02-05.22-15-33,21:13,CTHA:S2CA,,PLAYER_BLACKJACK,581294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 578794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 26, 'value': 1}], 'dealer': [{'id': 14, 'value': 2}, {'id': 0, 'value': 1}]}
+
+5119,2017-02-05.22-15-37,21:5,HJHA:S3H2,,PLAYER_BLACKJACK,576294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 573794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 26, 'value': 1}], 'dealer': [{'id': 15, 'value': 3}, {'id': 27, 'value': 2}]}
+
+5139,2017-02-05.22-15-42,21:15,HAHJ:S5ST,,PLAYER_BLACKJACK,526294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 523794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 36, 'value': 11}], 'dealer': [{'id': 17, 'value': 5}, {'id': 22, 'value': 10}]}
+
+5158,2017-02-05.22-15-47,21:17,DACQ:C8D9,,PLAYER_BLACKJACK,466294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 463794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 11, 'value': 12}], 'dealer': [{'id': 7, 'value': 8}, {'id': 47, 'value': 9}]}
+
+5205,2017-02-05.22-15-59,21:12,CADJ:H4C8,,PLAYER_BLACKJACK,446294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 443794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 29, 'value': 4}, {'id': 7, 'value': 8}]}
+
+5213,2017-02-05.22-16-01,21:17,SQHA:C7HQ,,PLAYER_BLACKJACK,456294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 453794, 'cansplit': 'false', 'player': [{'id': 24, 'value': 12}, {'id': 26, 'value': 1}], 'dealer': [{'id': 6, 'value': 7}, {'id': 37, 'value': 12}]}
+
+5215,2017-02-05.22-16-01,21:16,HASK:C9H7,,PLAYER_BLACKJACK,451294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 448794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 8, 'value': 9}, {'id': 32, 'value': 7}]}
+
+5239,2017-02-05.22-16-07,21:13,HAHJ:C4S9,,PLAYER_BLACKJACK,401294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 398794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 36, 'value': 11}], 'dealer': [{'id': 3, 'value': 4}, {'id': 21, 'value': 9}]}
+
+5251,2017-02-05.22-16-11,21:13,HAHT:DQC3,,PLAYER_BLACKJACK,411294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 408794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 50, 'value': 12}, {'id': 2, 'value': 3}]}
+
+5267,2017-02-05.22-16-14,21:20,CKHA:STSQ,,PLAYER_BLACKJACK,416294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 413794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 22, 'value': 10}, {'id': 24, 'value': 12}]}
+
+5283,2017-02-05.22-16-19,21:12,HTHA:H7S5,,PLAYER_BLACKJACK,441294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 438794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 26, 'value': 1}], 'dealer': [{'id': 32, 'value': 7}, {'id': 17, 'value': 5}]}
+
+5289,2017-02-05.22-16-20,21:14,HQHA:CKD4,,PLAYER_BLACKJACK,431294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 428794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 26, 'value': 1}], 'dealer': [{'id': 12, 'value': 13}, {'id': 42, 'value': 4}]}
+
+5296,2017-02-05.22-16-22,21:12,HACT:DKH2,,PLAYER_BLACKJACK,446294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 443794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 9, 'value': 10}], 'dealer': [{'id': 51, 'value': 13}, {'id': 27, 'value': 2}]}
+
+5307,2017-02-05.22-16-25,21:12,SKSA:H2DJ,,PLAYER_BLACKJACK,476294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 473794, 'cansplit': 'false', 'player': [{'id': 25, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 27, 'value': 2}, {'id': 49, 'value': 11}]}
+
+5328,2017-02-05.22-16-30,21:12,CQDA:SKS2,,PLAYER_BLACKJACK,476294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 473794, 'cansplit': 'false', 'player': [{'id': 11, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 25, 'value': 13}, {'id': 14, 'value': 2}]}
+
+5333,2017-02-05.22-16-31,21:20,SASK:SQCT,,PLAYER_BLACKJACK,491294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 488794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 24, 'value': 12}, {'id': 9, 'value': 10}]}
+
+5339,2017-02-05.22-16-32,21:8,CTSA:H6D2,,PLAYER_BLACKJACK,501294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 498794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 31, 'value': 6}, {'id': 40, 'value': 2}]}
+
+5349,2017-02-05.22-16-35,21:13,HACK:HKD3,,PLAYER_BLACKJACK,496294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 493794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 12, 'value': 13}], 'dealer': [{'id': 38, 'value': 13}, {'id': 41, 'value': 3}]}
+
+5364,2017-02-05.22-16-38,21:19,SAHQ:HAS8,,PLAYER_BLACKJACK,456294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 453794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 26, 'value': 1}, {'id': 20, 'value': 8}]}
+
+5398,2017-02-05.22-16-47,21:20,CASJ:HJCK,,PLAYER_BLACKJACK,476294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 473794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 23, 'value': 11}], 'dealer': [{'id': 36, 'value': 11}, {'id': 12, 'value': 13}]}
+
+5420,2017-02-05.22-16-53,21:19,HKHA:S9HQ,,PLAYER_BLACKJACK,506294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 503794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 21, 'value': 9}, {'id': 37, 'value': 12}]}
+
+5480,2017-02-05.22-17-09,21:21,DAHT:HJCA,,PLAYER_BLACKJACK,461294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 453794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 36, 'value': 11}, {'id': 0, 'value': 1}]}
+
+5493,2017-02-05.22-17-12,21:16,CASQ:CTC6,,PLAYER_BLACKJACK,431294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 428794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 24, 'value': 12}], 'dealer': [{'id': 9, 'value': 10}, {'id': 5, 'value': 6}]}
+
+5587,2017-02-05.22-17-36,21:9,HTDA:H5D4,,PLAYER_BLACKJACK,376294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 373794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 39, 'value': 1}], 'dealer': [{'id': 30, 'value': 5}, {'id': 42, 'value': 4}]}
+
+5629,2017-02-05.22-17-46,21:8,HKHA:C2D6,,PLAYER_BLACKJACK,371294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 368794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 1, 'value': 2}, {'id': 44, 'value': 6}]}
+
+5714,2017-02-05.22-18-08,21:8,HQDA:C6D2,,PLAYER_BLACKJACK,271294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 268794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 5, 'value': 6}, {'id': 40, 'value': 2}]}
+
+5716,2017-02-05.22-18-09,21:18,HJCA:H8CK,,PLAYER_BLACKJACK,276294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 273794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 0, 'value': 1}], 'dealer': [{'id': 33, 'value': 8}, {'id': 12, 'value': 13}]}
+
+5740,2017-02-05.22-18-15,21:13,DAHT:HQC3,,PLAYER_BLACKJACK,231294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 228794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 37, 'value': 12}, {'id': 2, 'value': 3}]}
+
+5758,2017-02-05.22-18-20,21:19,HTCA:S9DQ,,PLAYER_BLACKJACK,221294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 218794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 0, 'value': 1}], 'dealer': [{'id': 21, 'value': 9}, {'id': 50, 'value': 12}]}
+
+5769,2017-02-05.22-18-23,21:13,CTCA:HKH3,,PLAYER_BLACKJACK,221294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 218794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 0, 'value': 1}], 'dealer': [{'id': 38, 'value': 13}, {'id': 28, 'value': 3}]}
+
+5783,2017-02-05.22-18-26,21:15,DQHA:C9D6,,PLAYER_BLACKJACK,191294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 188794, 'cansplit': 'false', 'player': [{'id': 50, 'value': 12}, {'id': 26, 'value': 1}], 'dealer': [{'id': 8, 'value': 9}, {'id': 44, 'value': 6}]}
+
+5793,2017-02-05.22-18-29,21:11,DTHA:D6S5,,PLAYER_BLACKJACK,196294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 193794, 'cansplit': 'false', 'player': [{'id': 48, 'value': 10}, {'id': 26, 'value': 1}], 'dealer': [{'id': 44, 'value': 6}, {'id': 17, 'value': 5}]}
+
+5797,2017-02-05.22-18-29,21:10,HACT:D7C3,,PLAYER_BLACKJACK,196294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 193794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 9, 'value': 10}], 'dealer': [{'id': 45, 'value': 7}, {'id': 2, 'value': 3}]}
+
+5801,2017-02-05.22-18-31,21:10,HASQ:S5D5,,PLAYER_BLACKJACK,216294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 213794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 24, 'value': 12}], 'dealer': [{'id': 17, 'value': 5}, {'id': 43, 'value': 5}]}
+
+5812,2017-02-05.22-18-33,21:18,SAHK:DAS7,,PLAYER_BLACKJACK,211294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 208794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 39, 'value': 1}, {'id': 19, 'value': 7}]}
+
+5819,2017-02-05.22-18-35,21:17,DQSA:S8C9,,PLAYER_BLACKJACK,201294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 198794, 'cansplit': 'false', 'player': [{'id': 50, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 20, 'value': 8}, {'id': 8, 'value': 9}]}
+
+5833,2017-02-05.22-18-39,21:18,DAHK:CJH8,,PLAYER_BLACKJACK,226294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 223794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 10, 'value': 11}, {'id': 33, 'value': 8}]}
+
+5866,2017-02-05.22-18-47,21:20,CJHA:SJCK,,PLAYER_BLACKJACK,216294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 213794, 'cansplit': 'false', 'player': [{'id': 10, 'value': 11}, {'id': 26, 'value': 1}], 'dealer': [{'id': 23, 'value': 11}, {'id': 12, 'value': 13}]}
+
+5871,2017-02-05.22-18-48,21:15,HASQ:D5CK,,PLAYER_BLACKJACK,211294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 208794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 24, 'value': 12}], 'dealer': [{'id': 43, 'value': 5}, {'id': 12, 'value': 13}]}
+
+5908,2017-02-05.22-18-58,21:8,HACJ:D4S4,,PLAYER_BLACKJACK,206294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 203794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 10, 'value': 11}], 'dealer': [{'id': 42, 'value': 4}, {'id': 16, 'value': 4}]}
+
+5915,2017-02-05.22-18-59,21:10,CKHA:H3H7,,PLAYER_BLACKJACK,201294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 198794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 28, 'value': 3}, {'id': 32, 'value': 7}]}
+
+5919,2017-02-05.22-19-01,21:13,CASJ:CTS3,,PLAYER_BLACKJACK,211294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 208794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 23, 'value': 11}], 'dealer': [{'id': 9, 'value': 10}, {'id': 15, 'value': 3}]}
+
+5940,2017-02-05.22-19-07,21:21,HJSA:CQHA,,PLAYER_BLACKJACK,236294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 228794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 13, 'value': 1}], 'dealer': [{'id': 11, 'value': 12}, {'id': 26, 'value': 1}]}
+
+6003,2017-02-05.22-19-23,21:17,CACK:HJC7,,PLAYER_BLACKJACK,281294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 278794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 12, 'value': 13}], 'dealer': [{'id': 36, 'value': 11}, {'id': 6, 'value': 7}]}
+
+6024,2017-02-05.22-19-28,21:13,CASK:S8S5,,PLAYER_BLACKJACK,286294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 283794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 20, 'value': 8}, {'id': 17, 'value': 5}]}
+
+6074,2017-02-05.22-19-41,21:14,CASK:DJH4,,PLAYER_BLACKJACK,331294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 328794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 49, 'value': 11}, {'id': 29, 'value': 4}]}
+
+6087,2017-02-05.22-19-44,21:13,CAHK:D3CJ,,PLAYER_BLACKJACK,346294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 343794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 38, 'value': 13}], 'dealer': [{'id': 41, 'value': 3}, {'id': 10, 'value': 11}]}
+
+6133,2017-02-05.22-19-56,21:18,DAST:H8CQ,,PLAYER_BLACKJACK,356294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 353794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 22, 'value': 10}], 'dealer': [{'id': 33, 'value': 8}, {'id': 11, 'value': 12}]}
+
+6159,2017-02-05.22-20-03,21:18,CKHA:SJC8,,PLAYER_BLACKJACK,336294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 333794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 23, 'value': 11}, {'id': 7, 'value': 8}]}
+
+6168,2017-02-05.22-20-05,21:13,DJCA:H8H5,,PLAYER_BLACKJACK,336294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 333794, 'cansplit': 'false', 'player': [{'id': 49, 'value': 11}, {'id': 0, 'value': 1}], 'dealer': [{'id': 33, 'value': 8}, {'id': 30, 'value': 5}]}
+
+6178,2017-02-05.22-20-08,21:18,HTSA:CJH8,,PLAYER_BLACKJACK,341294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 338794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 10, 'value': 11}, {'id': 33, 'value': 8}]}
+
+6189,2017-02-05.22-20-12,21:17,CAHT:H9D8,,PLAYER_BLACKJACK,356294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 353794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 34, 'value': 9}, {'id': 46, 'value': 8}]}
+
+6209,2017-02-05.22-20-18,21:20,SQDA:S9HA,,PLAYER_BLACKJACK,346294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 343794, 'cansplit': 'false', 'player': [{'id': 24, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 21, 'value': 9}, {'id': 26, 'value': 1}]}
+
+6222,2017-02-05.22-20-21,21:14,HADJ:S4ST,,PLAYER_BLACKJACK,336294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 333794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 16, 'value': 4}, {'id': 22, 'value': 10}]}
+
+6260,2017-02-05.22-20-32,21:14,STDA:S7C7,,PLAYER_BLACKJACK,301294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 298794, 'cansplit': 'false', 'player': [{'id': 22, 'value': 10}, {'id': 39, 'value': 1}], 'dealer': [{'id': 19, 'value': 7}, {'id': 6, 'value': 7}]}
+
+6263,2017-02-05.22-20-33,21:9,HJSA:C4D5,,PLAYER_BLACKJACK,301294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 298794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 13, 'value': 1}], 'dealer': [{'id': 3, 'value': 4}, {'id': 43, 'value': 5}]}
+
+6294,2017-02-05.22-20-41,21:20,CAHQ:DJDT,,PLAYER_BLACKJACK,261294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 258794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 49, 'value': 11}, {'id': 48, 'value': 10}]}
+
+6310,2017-02-05.22-20-46,21:19,DQHA:DKC9,,PLAYER_BLACKJACK,266294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 263794, 'cansplit': 'false', 'player': [{'id': 50, 'value': 12}, {'id': 26, 'value': 1}], 'dealer': [{'id': 51, 'value': 13}, {'id': 8, 'value': 9}]}
+
+6357,2017-02-05.22-20-59,21:13,HASJ:C6H7,,PLAYER_BLACKJACK,276294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 273794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 23, 'value': 11}], 'dealer': [{'id': 5, 'value': 6}, {'id': 32, 'value': 7}]}
+
+6381,2017-02-05.22-21-05,21:13,HTSA:H5S8,,PLAYER_BLACKJACK,216294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 213794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 30, 'value': 5}, {'id': 20, 'value': 8}]}
+
+6409,2017-02-05.22-21-13,21:12,DJDA:C9H3,,PLAYER_BLACKJACK,206294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 203794, 'cansplit': 'false', 'player': [{'id': 49, 'value': 11}, {'id': 39, 'value': 1}], 'dealer': [{'id': 8, 'value': 9}, {'id': 28, 'value': 3}]}
+
+6412,2017-02-05.22-21-14,21:15,HTDA:C5SJ,,PLAYER_BLACKJACK,201294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 198794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 39, 'value': 1}], 'dealer': [{'id': 4, 'value': 5}, {'id': 23, 'value': 11}]}
+
+6437,2017-02-05.22-21-21,21:15,HAHJ:S8C7,,PLAYER_BLACKJACK,176294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 173794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 36, 'value': 11}], 'dealer': [{'id': 20, 'value': 8}, {'id': 6, 'value': 7}]}
+
+6448,2017-02-05.22-21-23,21:20,DJSA:DKCT,,PLAYER_BLACKJACK,181294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 178794, 'cansplit': 'false', 'player': [{'id': 49, 'value': 11}, {'id': 13, 'value': 1}], 'dealer': [{'id': 51, 'value': 13}, {'id': 9, 'value': 10}]}
+
+6460,2017-02-05.22-21-27,21:19,DADK:DQH9,,PLAYER_BLACKJACK,206294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 203794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 51, 'value': 13}], 'dealer': [{'id': 50, 'value': 12}, {'id': 34, 'value': 9}]}
+
+6489,2017-02-05.22-21-35,21:16,CKHA:DAH5,,PLAYER_BLACKJACK,221294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 218794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 39, 'value': 1}, {'id': 30, 'value': 5}]}
+
+6499,2017-02-05.22-21-37,21:12,HADT:S2HJ,,PLAYER_BLACKJACK,221294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 218794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 48, 'value': 10}], 'dealer': [{'id': 14, 'value': 2}, {'id': 36, 'value': 11}]}
+
+6507,2017-02-05.22-21-40,21:14,HADJ:D5C9,,PLAYER_BLACKJACK,266294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 263794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 43, 'value': 5}, {'id': 8, 'value': 9}]}
+
+6531,2017-02-05.22-21-46,21:16,HKDA:DTD6,,PLAYER_BLACKJACK,271294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 268794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 39, 'value': 1}], 'dealer': [{'id': 48, 'value': 10}, {'id': 44, 'value': 6}]}
+
+6599,2017-02-05.22-22-05,21:12,HJHA:SKS2,,PLAYER_BLACKJACK,211294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 208794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 26, 'value': 1}], 'dealer': [{'id': 25, 'value': 13}, {'id': 14, 'value': 2}]}
+
+6616,2017-02-05.22-22-09,21:21,HQSA:HJCA,,PLAYER_BLACKJACK,231294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'P', 'totalCoins': 223794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 13, 'value': 1}], 'dealer': [{'id': 36, 'value': 11}, {'id': 0, 'value': 1}]}
+
+6624,2017-02-05.22-22-11,21:10,DADT:D7D3,,PLAYER_BLACKJACK,206294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 203794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 48, 'value': 10}], 'dealer': [{'id': 45, 'value': 7}, {'id': 41, 'value': 3}]}
+
+6628,2017-02-05.22-22-12,21:16,HADK:C6SQ,,PLAYER_BLACKJACK,201294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 198794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 51, 'value': 13}], 'dealer': [{'id': 5, 'value': 6}, {'id': 24, 'value': 12}]}
+
+6653,2017-02-05.22-22-19,21:18,SKHA:DKC8,,PLAYER_BLACKJACK,191294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 188794, 'cansplit': 'false', 'player': [{'id': 25, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 51, 'value': 13}, {'id': 7, 'value': 8}]}
+
+6659,2017-02-05.22-22-20,21:19,DAST:SKD9,,PLAYER_BLACKJACK,176294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 173794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 22, 'value': 10}], 'dealer': [{'id': 25, 'value': 13}, {'id': 47, 'value': 9}]}
+
+6661,2017-02-05.22-22-20,21:19,CTDA:D9SQ,,PLAYER_BLACKJACK,186294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 183794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 39, 'value': 1}], 'dealer': [{'id': 47, 'value': 9}, {'id': 24, 'value': 12}]}
+
+6674,2017-02-05.22-22-24,21:5,DJDA:D2S3,,PLAYER_BLACKJACK,181294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 178794, 'cansplit': 'false', 'player': [{'id': 49, 'value': 11}, {'id': 39, 'value': 1}], 'dealer': [{'id': 40, 'value': 2}, {'id': 15, 'value': 3}]}
+
+6734,2017-02-05.22-22-40,21:20,SQDA:SJDJ,,PLAYER_BLACKJACK,121294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 118794, 'cansplit': 'false', 'player': [{'id': 24, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 23, 'value': 11}, {'id': 49, 'value': 11}]}
+
+6736,2017-02-05.22-22-41,21:9,HADQ:C5S4,,PLAYER_BLACKJACK,131294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 128794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 50, 'value': 12}], 'dealer': [{'id': 4, 'value': 5}, {'id': 16, 'value': 4}]}
+
+6749,2017-02-05.22-22-44,21:12,DJHA:H2HQ,,PLAYER_BLACKJACK,141294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 138794, 'cansplit': 'false', 'player': [{'id': 49, 'value': 11}, {'id': 26, 'value': 1}], 'dealer': [{'id': 27, 'value': 2}, {'id': 37, 'value': 12}]}
+
+6753,2017-02-05.22-22-44,21:16,CAHQ:CJH6,,PLAYER_BLACKJACK,146294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 143794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 10, 'value': 11}, {'id': 31, 'value': 6}]}
+
+6756,2017-02-05.22-22-45,21:14,CKHA:HTH4,,PLAYER_BLACKJACK,151294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 148794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 35, 'value': 10}, {'id': 29, 'value': 4}]}
+
+6773,2017-02-05.22-22-51,21:20,DADQ:DKDJ,,PLAYER_BLACKJACK,156294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 153794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 50, 'value': 12}], 'dealer': [{'id': 51, 'value': 13}, {'id': 49, 'value': 11}]}
+
+6786,2017-02-05.22-22-54,21:14,CTSA:SJC4,,PLAYER_BLACKJACK,171294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 168794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 23, 'value': 11}, {'id': 3, 'value': 4}]}
+
+6789,2017-02-05.22-22-56,21:14,HACQ:C8D6,,PLAYER_BLACKJACK,176294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 173794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 11, 'value': 12}], 'dealer': [{'id': 7, 'value': 8}, {'id': 44, 'value': 6}]}
+
+6823,2017-02-05.22-23-05,21:16,CJSA:STC6,,PLAYER_BLACKJACK,196294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 193794, 'cansplit': 'false', 'player': [{'id': 10, 'value': 11}, {'id': 13, 'value': 1}], 'dealer': [{'id': 22, 'value': 10}, {'id': 5, 'value': 6}]}
+
+6834,2017-02-05.22-23-07,21:13,HADJ:CJS3,,PLAYER_BLACKJACK,176294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 173794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 10, 'value': 11}, {'id': 15, 'value': 3}]}
+
+6862,2017-02-05.22-23-14,21:12,SASQ:D8C4,,PLAYER_BLACKJACK,141294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 138794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 24, 'value': 12}], 'dealer': [{'id': 46, 'value': 8}, {'id': 3, 'value': 4}]}
+
+6870,2017-02-05.22-23-16,21:19,CQDA:H9CT,,PLAYER_BLACKJACK,121294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 118794, 'cansplit': 'false', 'player': [{'id': 11, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 34, 'value': 9}, {'id': 9, 'value': 10}]}
+
+6873,2017-02-05.22-23-17,21:20,HJDA:SKCK,,PLAYER_BLACKJACK,136294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 133794, 'cansplit': 'false', 'player': [{'id': 36, 'value': 11}, {'id': 39, 'value': 1}], 'dealer': [{'id': 25, 'value': 13}, {'id': 12, 'value': 13}]}
+
+6887,2017-02-05.22-23-21,21:20,SASK:CJCT,,PLAYER_BLACKJACK,136294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 133794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 10, 'value': 11}, {'id': 9, 'value': 10}]}
+
+6890,2017-02-05.22-23-22,21:19,SAHQ:C9DT,,PLAYER_BLACKJACK,136294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 133794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 8, 'value': 9}, {'id': 48, 'value': 10}]}
+
+6910,2017-02-05.22-23-27,21:15,DADT:H4HA,,PLAYER_BLACKJACK,131294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 128794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 48, 'value': 10}], 'dealer': [{'id': 29, 'value': 4}, {'id': 26, 'value': 1}]}
+
+6933,2017-02-05.22-23-33,21:18,CQDA:D7SA,,PLAYER_BLACKJACK,131294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 128794, 'cansplit': 'false', 'player': [{'id': 11, 'value': 12}, {'id': 39, 'value': 1}], 'dealer': [{'id': 45, 'value': 7}, {'id': 13, 'value': 1}]}
+
+6942,2017-02-05.22-23-35,21:13,DAHT:H3DK,,PLAYER_BLACKJACK,141294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 138794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 35, 'value': 10}], 'dealer': [{'id': 28, 'value': 3}, {'id': 51, 'value': 13}]}
+
+6966,2017-02-05.22-23-42,21:16,STCA:S6HQ,,PLAYER_BLACKJACK,141294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 138794, 'cansplit': 'false', 'player': [{'id': 22, 'value': 10}, {'id': 0, 'value': 1}], 'dealer': [{'id': 18, 'value': 6}, {'id': 37, 'value': 12}]}
+
+6980,2017-02-05.22-23-46,21:11,DADK:S4C7,,PLAYER_BLACKJACK,136294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 133794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 51, 'value': 13}], 'dealer': [{'id': 16, 'value': 4}, {'id': 6, 'value': 7}]}
+
+7030,2017-02-05.22-24-00,21:20,DADJ:HKDK,,PLAYER_BLACKJACK,96294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 93794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 38, 'value': 13}, {'id': 51, 'value': 13}]}
+
+7071,2017-02-05.22-24-11,21:13,HQCA:S3DK,,PLAYER_BLACKJACK,156294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 153794, 'cansplit': 'false', 'player': [{'id': 37, 'value': 12}, {'id': 0, 'value': 1}], 'dealer': [{'id': 15, 'value': 3}, {'id': 51, 'value': 13}]}
+
+7097,2017-02-05.22-24-18,21:18,DTSA:DQH8,,PLAYER_BLACKJACK,141294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 138794, 'cansplit': 'false', 'player': [{'id': 48, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 50, 'value': 12}, {'id': 33, 'value': 8}]}
+
+7104,2017-02-05.22-24-20,21:13,DAHQ:C8H5,,PLAYER_BLACKJACK,131294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 128794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 37, 'value': 12}], 'dealer': [{'id': 7, 'value': 8}, {'id': 30, 'value': 5}]}
+
+7116,2017-02-05.22-24-23,21:8,CASK:H3H5,,PLAYER_BLACKJACK,111294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 108794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 28, 'value': 3}, {'id': 30, 'value': 5}]}
+
+7174,2017-02-05.22-24-40,21:12,DASJ:H5S7,,PLAYER_BLACKJACK,141294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 138794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 23, 'value': 11}], 'dealer': [{'id': 30, 'value': 5}, {'id': 19, 'value': 7}]}
+
+7182,2017-02-05.22-24-43,21:15,CTHA:SAH4,,PLAYER_BLACKJACK,156294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 153794, 'cansplit': 'false', 'player': [{'id': 9, 'value': 10}, {'id': 26, 'value': 1}], 'dealer': [{'id': 13, 'value': 1}, {'id': 29, 'value': 4}]}
+
+7186,2017-02-05.22-24-44,21:13,HASK:S7S6,,PLAYER_BLACKJACK,151294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 148794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 25, 'value': 13}], 'dealer': [{'id': 19, 'value': 7}, {'id': 18, 'value': 6}]}
+
+7211,2017-02-05.22-24-52,21:10,HKCA:S5D5,,PLAYER_BLACKJACK,141294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 138794, 'cansplit': 'false', 'player': [{'id': 38, 'value': 13}, {'id': 0, 'value': 1}], 'dealer': [{'id': 17, 'value': 5}, {'id': 43, 'value': 5}]}
+
+7217,2017-02-05.22-24-53,21:8,HTSA:D5S3,,PLAYER_BLACKJACK,156294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 153794, 'cansplit': 'false', 'player': [{'id': 35, 'value': 10}, {'id': 13, 'value': 1}], 'dealer': [{'id': 43, 'value': 5}, {'id': 15, 'value': 3}]}
+
+7263,2017-02-05.22-25-07,21:15,CKHA:D4SA,,PLAYER_BLACKJACK,126294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 123794, 'cansplit': 'false', 'player': [{'id': 12, 'value': 13}, {'id': 26, 'value': 1}], 'dealer': [{'id': 42, 'value': 4}, {'id': 13, 'value': 1}]}
+
+7275,2017-02-05.22-25-10,21:12,CAST:D7C5,,PLAYER_BLACKJACK,116294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 113794, 'cansplit': 'false', 'player': [{'id': 0, 'value': 1}, {'id': 22, 'value': 10}], 'dealer': [{'id': 45, 'value': 7}, {'id': 4, 'value': 5}]}
+
+7289,2017-02-05.22-25-15,21:16,DADK:H6DQ,,PLAYER_BLACKJACK,106294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 103794, 'cansplit': 'false', 'player': [{'id': 39, 'value': 1}, {'id': 51, 'value': 13}], 'dealer': [{'id': 31, 'value': 6}, {'id': 50, 'value': 12}]}
+
+7327,2017-02-05.22-25-25,21:5,SAHJ:D2D3,,PLAYER_BLACKJACK,71294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 68794, 'cansplit': 'false', 'player': [{'id': 13, 'value': 1}, {'id': 36, 'value': 11}], 'dealer': [{'id': 40, 'value': 2}, {'id': 41, 'value': 3}]}
+
+7337,2017-02-05.22-25-28,21:16,HACJ:D9D7,,PLAYER_BLACKJACK,56294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 53794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 10, 'value': 11}], 'dealer': [{'id': 47, 'value': 9}, {'id': 45, 'value': 7}]}
+
+7359,2017-02-05.22-25-33,21:14,SKSA:C5C9,,PLAYER_BLACKJACK,41294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 38794, 'cansplit': 'false', 'player': [{'id': 25, 'value': 13}, {'id': 13, 'value': 1}], 'dealer': [{'id': 4, 'value': 5}, {'id': 8, 'value': 9}]}
+
+7375,2017-02-05.22-25-38,21:20,HADJ:HJDK,,PLAYER_BLACKJACK,26294,5000,12500,{'step': 'Stop', 'blackjack': 'true', 'state': 'true', 'win': 'W', 'totalCoins': 23794, 'cansplit': 'false', 'player': [{'id': 26, 'value': 1}, {'id': 49, 'value': 11}], 'dealer': [{'id': 36, 'value': 11}, {'id': 51, 'value': 13}]}
+

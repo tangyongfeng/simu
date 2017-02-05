@@ -1,0 +1,184 @@
+2,2017-02-05.22-29-42,22:15,DKH6D6:DTC5,H,DEALER_WIN,974999,5000,0,{'dealerPoints': 15, 'player': [{'value': 13, 'id': 51}, {'value': 6, 'id': 31}, {'value': 6, 'id': 44}], 'win': 'F', 'dealer': [{'value': 10, 'id': 48}, {'value': 5, 'id': 4}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 22, 'step': 'Stop', 'totalCoins': 994999}
+
+3,2017-02-05.22-29-43,19:20,H9SK:H6DKS4,S,DEALER_WIN,989999,5000,0,{'dealerPoints': 20, 'player': [{'value': 9, 'id': 34}, {'value': 13, 'id': 25}], 'win': 'F', 'dealer': [{'value': 6, 'id': 31}, {'value': 13, 'id': 51}, {'value': 4, 'id': 16}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 984999}
+
+4,2017-02-05.22-29-43,20:23,HJDQ:H4D7H2CJ,S,PLAYER_WIN,989999,5000,10000,{'dealerPoints': 23, 'player': [{'value': 11, 'id': 36}, {'value': 12, 'id': 50}], 'win': 'W', 'dealer': [{'value': 4, 'id': 29}, {'value': 7, 'id': 45}, {'value': 2, 'id': 27}, {'value': 11, 'id': 10}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 20, 'step': 'Stop', 'totalCoins': 984999}
+
+6,2017-02-05.22-29-43,16:24,S8D2S6:H4HQCJ,D,PLAYER_WIN,999999,10000,20000,{'dealerPoints': 24, 'player': [{'value': 8, 'id': 20}, {'value': 2, 'id': 40}, {'value': 6, 'id': 18}], 'win': 'W', 'dealer': [{'value': 4, 'id': 29}, {'value': 12, 'id': 37}, {'value': 11, 'id': 10}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 16, 'step': 'Stop', 'totalCoins': 994999}
+
+7,2017-02-05.22-29-44,13:23,C2HA:S3CKST,S,PLAYER_WIN,999999,5000,10000,{'dealerPoints': 23, 'player': [{'value': 2, 'id': 1}, {'value': 1, 'id': 26}], 'win': 'W', 'dealer': [{'value': 3, 'id': 15}, {'value': 13, 'id': 12}, {'value': 10, 'id': 22}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 13, 'step': 'Stop', 'totalCoins': 1009999}
+
+8,2017-02-05.22-29-44,19:20,D4DAS4:SQCK,S,DEALER_WIN,1004999,5000,0,{'dealerPoints': 20, 'player': [{'value': 4, 'id': 42}, {'value': 1, 'id': 39}, {'value': 4, 'id': 16}], 'win': 'F', 'dealer': [{'value': 12, 'id': 24}, {'value': 13, 'id': 12}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 999999}
+
+9,2017-02-05.22-29-44,19:25,D2DTH7:SJC5CT,S,PLAYER_WIN,1004999,5000,10000,{'dealerPoints': 25, 'player': [{'value': 2, 'id': 40}, {'value': 10, 'id': 48}, {'value': 7, 'id': 32}], 'win': 'W', 'dealer': [{'value': 11, 'id': 23}, {'value': 5, 'id': 4}, {'value': 10, 'id': 9}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 1019999}
+
+10,2017-02-05.22-29-44,26:18,H7H9CK:H8CT,H,DEALER_WIN,1014999,5000,0,{'dealerPoints': 18, 'player': [{'value': 7, 'id': 32}, {'value': 9, 'id': 34}, {'value': 13, 'id': 12}], 'win': 'F', 'dealer': [{'value': 8, 'id': 33}, {'value': 10, 'id': 9}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 26, 'step': 'Stop', 'totalCoins': 1009999}
+
+11,2017-02-05.22-29-45,16:20,D6HJ:S2S8DT,S,DEALER_WIN,1004999,5000,0,{'dealerPoints': 20, 'player': [{'value': 6, 'id': 44}, {'value': 11, 'id': 36}], 'win': 'F', 'dealer': [{'value': 2, 'id': 14}, {'value': 8, 'id': 20}, {'value': 10, 'id': 48}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 16, 'step': 'Stop', 'totalCoins': 1014999}
+
+12,2017-02-05.22-29-45,14:17,D4CQ:H5HTH2,S,DEALER_WIN,1009999,5000,0,{'dealerPoints': 17, 'player': [{'value': 4, 'id': 42}, {'value': 12, 'id': 11}], 'win': 'F', 'dealer': [{'value': 5, 'id': 30}, {'value': 10, 'id': 35}, {'value': 2, 'id': 27}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 14, 'step': 'Stop', 'totalCoins': 1004999}
+
+13,2017-02-05.22-29-45,22:12,H5H9D8:D9C3,H,DEALER_WIN,999999,5000,0,{'dealerPoints': 12, 'player': [{'value': 5, 'id': 30}, {'value': 9, 'id': 34}, {'value': 8, 'id': 46}], 'win': 'F', 'dealer': [{'value': 9, 'id': 47}, {'value': 3, 'id': 2}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 22, 'step': 'Stop', 'totalCoins': 1004999}
+
+14,2017-02-05.22-29-46,24:19,S5H2H6CAHK:CKH9,H,DEALER_WIN,999999,5000,0,{'dealerPoints': 19, 'player': [{'value': 5, 'id': 17}, {'value': 2, 'id': 27}, {'value': 6, 'id': 31}, {'value': 1, 'id': 0}, {'value': 13, 'id': 38}], 'win': 'F', 'dealer': [{'value': 13, 'id': 12}, {'value': 9, 'id': 34}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 24, 'step': 'Stop', 'totalCoins': 994999}
+
+16,2017-02-05.22-29-46,17:19,D6S2S9:HAS8,S,DEALER_WIN,984999,5000,0,{'dealerPoints': 19, 'player': [{'value': 6, 'id': 44}, {'value': 2, 'id': 14}, {'value': 9, 'id': 21}], 'win': 'F', 'dealer': [{'value': 1, 'id': 26}, {'value': 8, 'id': 20}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 989999}
+
+17,2017-02-05.22-29-46,17:18,H7HK:DAD4SAD2,S,DEALER_WIN,984999,5000,0,{'dealerPoints': 18, 'player': [{'value': 7, 'id': 32}, {'value': 13, 'id': 38}], 'win': 'F', 'dealer': [{'value': 1, 'id': 39}, {'value': 4, 'id': 42}, {'value': 1, 'id': 13}, {'value': 2, 'id': 40}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 974999}
+
+18,2017-02-05.22-29-47,21:17,S6C5HQ:S8C9,D,PLAYER_WIN,984999,10000,20000,{'dealerPoints': 17, 'player': [{'value': 6, 'id': 18}, {'value': 5, 'id': 4}, {'value': 12, 'id': 37}], 'win': 'W', 'dealer': [{'value': 8, 'id': 20}, {'value': 9, 'id': 8}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 21, 'step': 'Stop', 'totalCoins': 989999}
+
+22,2017-02-05.22-29-47,20:26,HTST:D4S2DJDK,S,PLAYER_WIN,994999,5000,10000,{'dealerPoints': 26, 'player': [{'value': 10, 'id': 35}, {'value': 10, 'id': 22}], 'win': 'W', 'dealer': [{'value': 4, 'id': 42}, {'value': 2, 'id': 14}, {'value': 11, 'id': 49}, {'value': 13, 'id': 51}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 20, 'step': 'Stop', 'totalCoins': 999999}
+
+23,2017-02-05.22-29-48,18:18,D6S2CQ:C3S5CK,S,PUSH,999999,5000,5000,{'dealerPoints': 18, 'player': [{'value': 6, 'id': 44}, {'value': 2, 'id': 14}, {'value': 12, 'id': 11}], 'win': 'P', 'dealer': [{'value': 3, 'id': 2}, {'value': 5, 'id': 17}, {'value': 13, 'id': 12}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 994999}
+
+24,2017-02-05.22-29-48,14:18,D4HK:S6H5H7,S,DEALER_WIN,989999,5000,0,{'dealerPoints': 18, 'player': [{'value': 4, 'id': 42}, {'value': 13, 'id': 38}], 'win': 'F', 'dealer': [{'value': 6, 'id': 18}, {'value': 5, 'id': 30}, {'value': 7, 'id': 32}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 14, 'step': 'Stop', 'totalCoins': 984999}
+
+25,2017-02-05.22-29-48,21:18,D3SKS8:C8ST,S,PLAYER_WIN,989999,5000,10000,{'dealerPoints': 18, 'player': [{'value': 3, 'id': 41}, {'value': 13, 'id': 25}, {'value': 8, 'id': 20}], 'win': 'W', 'dealer': [{'value': 8, 'id': 7}, {'value': 10, 'id': 22}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 21, 'step': 'Stop', 'totalCoins': 984999}
+
+26,2017-02-05.22-29-49,26:21,C6D6H4CJ:DQDA,H,DEALER_WIN,979999,5000,0,{'dealerPoints': 21, 'player': [{'value': 6, 'id': 5}, {'value': 6, 'id': 44}, {'value': 4, 'id': 29}, {'value': 11, 'id': 10}], 'win': 'F', 'dealer': [{'value': 12, 'id': 50}, {'value': 1, 'id': 39}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 26, 'step': 'Stop', 'totalCoins': 989999}
+
+28,2017-02-05.22-29-49,19:18,H6DKD3:CKD8,S,PLAYER_WIN,994999,5000,10000,{'dealerPoints': 18, 'player': [{'value': 6, 'id': 31}, {'value': 13, 'id': 51}, {'value': 3, 'id': 41}], 'win': 'W', 'dealer': [{'value': 13, 'id': 12}, {'value': 8, 'id': 46}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 989999}
+
+29,2017-02-05.22-29-49,16:19,H2D3DA:H4CTC5,S,DEALER_WIN,984999,5000,0,{'dealerPoints': 19, 'player': [{'value': 2, 'id': 27}, {'value': 3, 'id': 41}, {'value': 1, 'id': 39}], 'win': 'F', 'dealer': [{'value': 4, 'id': 29}, {'value': 10, 'id': 9}, {'value': 5, 'id': 4}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 16, 'step': 'Stop', 'totalCoins': 994999}
+
+30,2017-02-05.22-29-50,19:19,DKC3H6:DJC9,S,PUSH,994999,5000,5000,{'dealerPoints': 19, 'player': [{'value': 13, 'id': 51}, {'value': 3, 'id': 2}, {'value': 6, 'id': 31}], 'win': 'P', 'dealer': [{'value': 11, 'id': 49}, {'value': 9, 'id': 8}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 1004999}
+
+31,2017-02-05.22-29-50,14:21,S7C7:H6CTH5,S,DEALER_WIN,999999,5000,0,{'dealerPoints': 21, 'player': [{'value': 7, 'id': 19}, {'value': 7, 'id': 6}], 'win': 'F', 'dealer': [{'value': 6, 'id': 31}, {'value': 10, 'id': 9}, {'value': 5, 'id': 30}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 14, 'step': 'Stop', 'totalCoins': 994999}
+
+32,2017-02-05.22-29-50,21:19,C6H6H9:HKS9,S,PLAYER_WIN,999999,5000,10000,{'dealerPoints': 19, 'player': [{'value': 6, 'id': 5}, {'value': 6, 'id': 31}, {'value': 9, 'id': 34}], 'win': 'W', 'dealer': [{'value': 13, 'id': 38}, {'value': 9, 'id': 21}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 21, 'step': 'Stop', 'totalCoins': 1009999}
+
+34,2017-02-05.22-29-51,25:15,HKH5DAS9:SJD5,H,DEALER_WIN,999999,5000,0,{'dealerPoints': 15, 'player': [{'value': 13, 'id': 38}, {'value': 5, 'id': 30}, {'value': 1, 'id': 39}, {'value': 9, 'id': 21}], 'win': 'F', 'dealer': [{'value': 11, 'id': 23}, {'value': 5, 'id': 43}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 25, 'step': 'Stop', 'totalCoins': 1004999}
+
+35,2017-02-05.22-29-51,18:17,CTS5H3:SQH7,S,PLAYER_WIN,1009999,5000,10000,{'dealerPoints': 17, 'player': [{'value': 10, 'id': 9}, {'value': 5, 'id': 17}, {'value': 3, 'id': 28}], 'win': 'W', 'dealer': [{'value': 12, 'id': 24}, {'value': 7, 'id': 32}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 999999}
+
+36,2017-02-05.22-29-52,17:19,HKD7:C4HAD4,S,DEALER_WIN,994999,5000,0,{'dealerPoints': 19, 'player': [{'value': 13, 'id': 38}, {'value': 7, 'id': 45}], 'win': 'F', 'dealer': [{'value': 4, 'id': 3}, {'value': 1, 'id': 26}, {'value': 4, 'id': 42}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1004999}
+
+37,2017-02-05.22-29-52,17:23,S8H2D7:S3HJHT,D,PLAYER_WIN,1014999,10000,20000,{'dealerPoints': 23, 'player': [{'value': 8, 'id': 20}, {'value': 2, 'id': 27}, {'value': 7, 'id': 45}], 'win': 'W', 'dealer': [{'value': 3, 'id': 15}, {'value': 11, 'id': 36}, {'value': 10, 'id': 35}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1019999}
+
+39,2017-02-05.22-29-52,21:26,D9D3H9:DJS3H3ST,S,PLAYER_WIN,1019999,5000,10000,{'dealerPoints': 26, 'player': [{'value': 9, 'id': 47}, {'value': 3, 'id': 41}, {'value': 9, 'id': 34}], 'win': 'W', 'dealer': [{'value': 11, 'id': 49}, {'value': 3, 'id': 15}, {'value': 3, 'id': 28}, {'value': 10, 'id': 22}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 21, 'step': 'Stop', 'totalCoins': 1034999}
+
+40,2017-02-05.22-29-53,20:26,DTHJ:DKC6DJ,S,PLAYER_WIN,1039999,5000,10000,{'dealerPoints': 26, 'player': [{'value': 10, 'id': 48}, {'value': 11, 'id': 36}], 'win': 'W', 'dealer': [{'value': 13, 'id': 51}, {'value': 6, 'id': 5}, {'value': 11, 'id': 49}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 20, 'step': 'Stop', 'totalCoins': 1034999}
+
+41,2017-02-05.22-29-53,21:13,DJSA:S3ST,,PLAYER_BLACKJACK,1042499,5000,12500,{'cansplit': 'false', 'player': [{'value': 11, 'id': 49}, {'value': 1, 'id': 13}], 'win': 'W', 'dealer': [{'value': 3, 'id': 15}, {'value': 10, 'id': 22}], 'blackjack': 'true', 'state': 'true', 'step': 'Stop', 'totalCoins': 1034999}
+
+42,2017-02-05.22-29-53,19:22,H6D4C6H3:CTC3S2D7,S,PLAYER_WIN,1039999,5000,10000,{'dealerPoints': 22, 'player': [{'value': 6, 'id': 31}, {'value': 4, 'id': 42}, {'value': 6, 'id': 5}, {'value': 3, 'id': 28}], 'win': 'W', 'dealer': [{'value': 10, 'id': 9}, {'value': 3, 'id': 2}, {'value': 2, 'id': 14}, {'value': 7, 'id': 45}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 1049999}
+
+43,2017-02-05.22-29-53,22:17,D9H4H9:HAD6,H,DEALER_WIN,1044999,5000,0,{'dealerPoints': 17, 'player': [{'value': 9, 'id': 47}, {'value': 4, 'id': 29}, {'value': 9, 'id': 34}], 'win': 'F', 'dealer': [{'value': 1, 'id': 26}, {'value': 6, 'id': 44}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 22, 'step': 'Stop', 'totalCoins': 1039999}
+
+44,2017-02-05.22-29-54,17:19,H7S6S4:C8S8C3,S,DEALER_WIN,1034999,5000,0,{'dealerPoints': 19, 'player': [{'value': 7, 'id': 32}, {'value': 6, 'id': 18}, {'value': 4, 'id': 16}], 'win': 'F', 'dealer': [{'value': 8, 'id': 7}, {'value': 8, 'id': 20}, {'value': 3, 'id': 2}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1044999}
+
+45,2017-02-05.22-29-54,17:19,C6CA:S9CK,S,DEALER_WIN,1039999,5000,0,{'dealerPoints': 19, 'player': [{'value': 6, 'id': 5}, {'value': 1, 'id': 0}], 'win': 'F', 'dealer': [{'value': 9, 'id': 21}, {'value': 13, 'id': 12}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1029999}
+
+47,2017-02-05.22-29-55,18:17,HQD8:CKD7,S,PLAYER_WIN,1029999,5000,10000,{'dealerPoints': 17, 'player': [{'value': 12, 'id': 37}, {'value': 8, 'id': 46}], 'win': 'W', 'dealer': [{'value': 13, 'id': 12}, {'value': 7, 'id': 45}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1039999}
+
+49,2017-02-05.22-29-55,14:18,C7H3D4:D6D3D9,D,DEALER_WIN,1024999,10000,0,{'dealerPoints': 18, 'player': [{'value': 7, 'id': 6}, {'value': 3, 'id': 28}, {'value': 4, 'id': 42}], 'win': 'F', 'dealer': [{'value': 6, 'id': 44}, {'value': 3, 'id': 41}, {'value': 9, 'id': 47}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 14, 'step': 'Stop', 'totalCoins': 1014999}
+
+50,2017-02-05.22-29-55,22:11,C6S6DT:H8H3,H,DEALER_WIN,1009999,5000,0,{'dealerPoints': 11, 'player': [{'value': 6, 'id': 5}, {'value': 6, 'id': 18}, {'value': 10, 'id': 48}], 'win': 'F', 'dealer': [{'value': 8, 'id': 33}, {'value': 3, 'id': 28}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 22, 'step': 'Stop', 'totalCoins': 1019999}
+
+51,2017-02-05.22-29-56,19:26,CTS9:S5SQSACK,S,PLAYER_WIN,1024999,5000,10000,{'dealerPoints': 26, 'player': [{'value': 10, 'id': 9}, {'value': 9, 'id': 21}], 'win': 'W', 'dealer': [{'value': 5, 'id': 17}, {'value': 12, 'id': 24}, {'value': 1, 'id': 13}, {'value': 13, 'id': 12}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 1019999}
+
+52,2017-02-05.22-29-56,17:19,C4C2HA:S8CA,S,DEALER_WIN,1014999,5000,0,{'dealerPoints': 19, 'player': [{'value': 4, 'id': 3}, {'value': 2, 'id': 1}, {'value': 1, 'id': 26}], 'win': 'F', 'dealer': [{'value': 8, 'id': 20}, {'value': 1, 'id': 0}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1009999}
+
+53,2017-02-05.22-29-56,22:21,D7C6C2S7:HQCA,H,DEALER_WIN,1004999,5000,0,{'dealerPoints': 21, 'player': [{'value': 7, 'id': 45}, {'value': 6, 'id': 5}, {'value': 2, 'id': 1}, {'value': 7, 'id': 19}], 'win': 'F', 'dealer': [{'value': 12, 'id': 37}, {'value': 1, 'id': 0}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 22, 'step': 'Stop', 'totalCoins': 999999}
+
+55,2017-02-05.22-29-57,20:21,S3D6HA:SAHQ,S,DEALER_WIN,994999,5000,0,{'dealerPoints': 21, 'player': [{'value': 3, 'id': 15}, {'value': 6, 'id': 44}, {'value': 1, 'id': 26}], 'win': 'F', 'dealer': [{'value': 1, 'id': 13}, {'value': 12, 'id': 37}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 20, 'step': 'Stop', 'totalCoins': 989999}
+
+56,2017-02-05.22-29-57,17:17,C7HK:S3H6H7CA,S,PUSH,989999,5000,5000,{'dealerPoints': 17, 'player': [{'value': 7, 'id': 6}, {'value': 13, 'id': 38}], 'win': 'P', 'dealer': [{'value': 3, 'id': 15}, {'value': 6, 'id': 31}, {'value': 7, 'id': 32}, {'value': 1, 'id': 0}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1004999}
+
+57,2017-02-05.22-29-57,21:20,S3C8DQ:CJSJ,D,PLAYER_WIN,1014999,10000,20000,{'dealerPoints': 20, 'player': [{'value': 3, 'id': 15}, {'value': 8, 'id': 7}, {'value': 12, 'id': 50}], 'win': 'W', 'dealer': [{'value': 11, 'id': 10}, {'value': 11, 'id': 23}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 21, 'step': 'Stop', 'totalCoins': 1024999}
+
+59,2017-02-05.22-29-58,13:25,CQC3:D3CTDAHADT,S,PLAYER_WIN,1024999,5000,10000,{'dealerPoints': 25, 'player': [{'value': 12, 'id': 11}, {'value': 3, 'id': 2}], 'win': 'W', 'dealer': [{'value': 3, 'id': 41}, {'value': 10, 'id': 9}, {'value': 1, 'id': 39}, {'value': 1, 'id': 26}, {'value': 10, 'id': 48}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 13, 'step': 'Stop', 'totalCoins': 1029999}
+
+61,2017-02-05.22-29-58,16:21,H6CJ:S2C3S8D8,S,DEALER_WIN,1019999,5000,0,{'dealerPoints': 21, 'player': [{'value': 6, 'id': 31}, {'value': 11, 'id': 10}], 'win': 'F', 'dealer': [{'value': 2, 'id': 14}, {'value': 3, 'id': 2}, {'value': 8, 'id': 20}, {'value': 8, 'id': 46}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 16, 'step': 'Stop', 'totalCoins': 1024999}
+
+62,2017-02-05.22-29-59,24:20,C6C2S2C5CAD8:HKDJ,H,DEALER_WIN,1019999,5000,0,{'dealerPoints': 20, 'player': [{'value': 6, 'id': 5}, {'value': 2, 'id': 1}, {'value': 2, 'id': 14}, {'value': 5, 'id': 4}, {'value': 1, 'id': 0}, {'value': 8, 'id': 46}], 'win': 'F', 'dealer': [{'value': 13, 'id': 38}, {'value': 11, 'id': 49}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 24, 'step': 'Stop', 'totalCoins': 1014999}
+
+63,2017-02-05.22-29-59,18:20,S8DT:HQST,S,DEALER_WIN,1009999,5000,0,{'dealerPoints': 20, 'player': [{'value': 8, 'id': 20}, {'value': 10, 'id': 48}], 'win': 'F', 'dealer': [{'value': 12, 'id': 37}, {'value': 10, 'id': 22}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1019999}
+
+64,2017-02-05.22-29-59,18:21,CQC8:SKC5S6,S,DEALER_WIN,1014999,5000,0,{'dealerPoints': 21, 'player': [{'value': 12, 'id': 11}, {'value': 8, 'id': 7}], 'win': 'F', 'dealer': [{'value': 13, 'id': 25}, {'value': 5, 'id': 4}, {'value': 6, 'id': 18}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1009999}
+
+65,2017-02-05.22-30-00,26:20,D7S3H4SADADJ:CTHT,H,DEALER_WIN,1004999,5000,0,{'dealerPoints': 20, 'player': [{'value': 7, 'id': 45}, {'value': 3, 'id': 15}, {'value': 4, 'id': 29}, {'value': 1, 'id': 13}, {'value': 1, 'id': 39}, {'value': 11, 'id': 49}], 'win': 'F', 'dealer': [{'value': 10, 'id': 9}, {'value': 10, 'id': 35}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 26, 'step': 'Stop', 'totalCoins': 1009999}
+
+66,2017-02-05.22-30-00,21:17,S2C2S7CQ:STH7,S,PLAYER_WIN,1014999,5000,10000,{'dealerPoints': 17, 'player': [{'value': 2, 'id': 14}, {'value': 2, 'id': 1}, {'value': 7, 'id': 19}, {'value': 12, 'id': 11}], 'win': 'W', 'dealer': [{'value': 10, 'id': 22}, {'value': 7, 'id': 32}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 21, 'step': 'Stop', 'totalCoins': 1019999}
+
+67,2017-02-05.22-30-00,16:17,H5H6D5:D7SQ,D,DEALER_WIN,1009999,10000,0,{'dealerPoints': 17, 'player': [{'value': 5, 'id': 30}, {'value': 6, 'id': 31}, {'value': 5, 'id': 43}], 'win': 'F', 'dealer': [{'value': 7, 'id': 45}, {'value': 12, 'id': 24}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 16, 'step': 'Stop', 'totalCoins': 1019999}
+
+68,2017-02-05.22-30-00,21:20,DADT:DKSQ,,PLAYER_BLACKJACK,1027499,5000,12500,{'cansplit': 'false', 'player': [{'value': 1, 'id': 39}, {'value': 10, 'id': 48}], 'win': 'W', 'dealer': [{'value': 13, 'id': 51}, {'value': 12, 'id': 24}], 'blackjack': 'true', 'state': 'true', 'step': 'Stop', 'totalCoins': 1019999}
+
+69,2017-02-05.22-30-01,17:22,D8C9:H6DJD6,S,PLAYER_WIN,1024999,5000,10000,{'dealerPoints': 22, 'player': [{'value': 8, 'id': 46}, {'value': 9, 'id': 8}], 'win': 'W', 'dealer': [{'value': 6, 'id': 31}, {'value': 11, 'id': 49}, {'value': 6, 'id': 44}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1029999}
+
+70,2017-02-05.22-30-01,18:20,HAD7:H8S4C8,S,DEALER_WIN,1024999,5000,0,{'dealerPoints': 20, 'player': [{'value': 1, 'id': 26}, {'value': 7, 'id': 45}], 'win': 'F', 'dealer': [{'value': 8, 'id': 33}, {'value': 4, 'id': 16}, {'value': 8, 'id': 7}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1029999}
+
+71,2017-02-05.22-30-01,14:19,CTS4:C4H6S9,S,DEALER_WIN,1024999,5000,0,{'dealerPoints': 19, 'player': [{'value': 10, 'id': 9}, {'value': 4, 'id': 16}], 'win': 'F', 'dealer': [{'value': 4, 'id': 3}, {'value': 6, 'id': 31}, {'value': 9, 'id': 21}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 14, 'step': 'Stop', 'totalCoins': 1014999}
+
+72,2017-02-05.22-30-01,21:20,DQDA:HKSK,,PLAYER_BLACKJACK,1022499,5000,12500,{'cansplit': 'false', 'player': [{'value': 12, 'id': 50}, {'value': 1, 'id': 39}], 'win': 'W', 'dealer': [{'value': 13, 'id': 38}, {'value': 13, 'id': 25}], 'blackjack': 'true', 'state': 'true', 'step': 'Stop', 'totalCoins': 1014999}
+
+73,2017-02-05.22-30-01,19:20,H9CT:C3S9D8,S,DEALER_WIN,1009999,5000,0,{'dealerPoints': 20, 'player': [{'value': 9, 'id': 34}, {'value': 10, 'id': 9}], 'win': 'F', 'dealer': [{'value': 3, 'id': 2}, {'value': 9, 'id': 21}, {'value': 8, 'id': 46}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 1019999}
+
+74,2017-02-05.22-30-02,22:13,D4S8HJ:S3ST,H,DEALER_WIN,1014999,5000,0,{'dealerPoints': 13, 'player': [{'value': 4, 'id': 42}, {'value': 8, 'id': 20}, {'value': 11, 'id': 36}], 'win': 'F', 'dealer': [{'value': 3, 'id': 15}, {'value': 10, 'id': 22}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 22, 'step': 'Stop', 'totalCoins': 1009999}
+
+75,2017-02-05.22-30-02,20:20,CTSQ:DJCQ,S,PUSH,1009999,5000,5000,{'dealerPoints': 20, 'player': [{'value': 10, 'id': 9}, {'value': 12, 'id': 24}], 'win': 'P', 'dealer': [{'value': 11, 'id': 49}, {'value': 12, 'id': 11}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 20, 'step': 'Stop', 'totalCoins': 1014999}
+
+76,2017-02-05.22-30-02,19:17,D9CQ:D2H5HQ,S,PLAYER_WIN,1019999,5000,10000,{'dealerPoints': 17, 'player': [{'value': 9, 'id': 47}, {'value': 12, 'id': 11}], 'win': 'W', 'dealer': [{'value': 2, 'id': 40}, {'value': 5, 'id': 30}, {'value': 12, 'id': 37}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 1024999}
+
+78,2017-02-05.22-30-03,23:20,S7S3C3CT:SJCQ,H,DEALER_WIN,1014999,5000,0,{'dealerPoints': 20, 'player': [{'value': 7, 'id': 19}, {'value': 3, 'id': 15}, {'value': 3, 'id': 2}, {'value': 10, 'id': 9}], 'win': 'F', 'dealer': [{'value': 11, 'id': 23}, {'value': 12, 'id': 11}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 23, 'step': 'Stop', 'totalCoins': 1009999}
+
+79,2017-02-05.22-30-03,14:25,S7D7:D6DTS9,S,PLAYER_WIN,1014999,5000,10000,{'dealerPoints': 25, 'player': [{'value': 7, 'id': 19}, {'value': 7, 'id': 45}], 'win': 'W', 'dealer': [{'value': 6, 'id': 44}, {'value': 10, 'id': 48}, {'value': 9, 'id': 21}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 14, 'step': 'Stop', 'totalCoins': 1029999}
+
+80,2017-02-05.22-30-03,14:25,H4SJ:C5CASKH9,S,PLAYER_WIN,1034999,5000,10000,{'dealerPoints': 25, 'player': [{'value': 4, 'id': 29}, {'value': 11, 'id': 23}], 'win': 'W', 'dealer': [{'value': 5, 'id': 4}, {'value': 1, 'id': 0}, {'value': 13, 'id': 25}, {'value': 9, 'id': 34}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 14, 'step': 'Stop', 'totalCoins': 1044999}
+
+81,2017-02-05.22-30-04,18:17,C5D3SQ:CTD4C2CA,S,PLAYER_WIN,1049999,5000,10000,{'dealerPoints': 17, 'player': [{'value': 5, 'id': 4}, {'value': 3, 'id': 41}, {'value': 12, 'id': 24}], 'win': 'W', 'dealer': [{'value': 10, 'id': 9}, {'value': 4, 'id': 42}, {'value': 2, 'id': 1}, {'value': 1, 'id': 0}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1044999}
+
+83,2017-02-05.22-30-04,20:17,H4S6SJ:C7DQ,D,PLAYER_WIN,1059999,10000,20000,{'dealerPoints': 17, 'player': [{'value': 4, 'id': 29}, {'value': 6, 'id': 18}, {'value': 11, 'id': 23}], 'win': 'W', 'dealer': [{'value': 7, 'id': 6}, {'value': 12, 'id': 50}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 20, 'step': 'Stop', 'totalCoins': 1054999}
+
+85,2017-02-05.22-30-05,17:23,SJC7:D6D4D2CAST,S,PLAYER_WIN,1054999,5000,10000,{'dealerPoints': 23, 'player': [{'value': 11, 'id': 23}, {'value': 7, 'id': 6}], 'win': 'W', 'dealer': [{'value': 6, 'id': 44}, {'value': 4, 'id': 42}, {'value': 2, 'id': 40}, {'value': 1, 'id': 0}, {'value': 10, 'id': 22}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1059999}
+
+86,2017-02-05.22-30-05,18:17,S8SQ:H7SJ,S,PLAYER_WIN,1064999,5000,10000,{'dealerPoints': 17, 'player': [{'value': 8, 'id': 20}, {'value': 12, 'id': 24}], 'win': 'W', 'dealer': [{'value': 7, 'id': 32}, {'value': 11, 'id': 23}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1059999}
+
+87,2017-02-05.22-30-05,18:22,SJH8:HAS2D9DK,S,PLAYER_WIN,1064999,5000,10000,{'dealerPoints': 22, 'player': [{'value': 11, 'id': 23}, {'value': 8, 'id': 33}], 'win': 'W', 'dealer': [{'value': 1, 'id': 26}, {'value': 2, 'id': 14}, {'value': 9, 'id': 47}, {'value': 13, 'id': 51}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1074999}
+
+89,2017-02-05.22-30-06,19:17,STC9:SAS2CAC3,S,PLAYER_WIN,1084999,5000,10000,{'dealerPoints': 17, 'player': [{'value': 10, 'id': 22}, {'value': 9, 'id': 8}], 'win': 'W', 'dealer': [{'value': 1, 'id': 13}, {'value': 2, 'id': 14}, {'value': 1, 'id': 0}, {'value': 3, 'id': 2}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 1079999}
+
+90,2017-02-05.22-30-06,21:22,S8S4S9:H2HQCQ,S,PLAYER_WIN,1084999,5000,10000,{'dealerPoints': 22, 'player': [{'value': 8, 'id': 20}, {'value': 4, 'id': 16}, {'value': 9, 'id': 21}], 'win': 'W', 'dealer': [{'value': 2, 'id': 27}, {'value': 12, 'id': 37}, {'value': 12, 'id': 11}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 21, 'step': 'Stop', 'totalCoins': 1079999}
+
+91,2017-02-05.22-30-06,21:16,CJCA:H9D7,,PLAYER_BLACKJACK,1087499,5000,12500,{'cansplit': 'false', 'player': [{'value': 11, 'id': 10}, {'value': 1, 'id': 0}], 'win': 'W', 'dealer': [{'value': 9, 'id': 34}, {'value': 7, 'id': 45}], 'blackjack': 'true', 'state': 'true', 'step': 'Stop', 'totalCoins': 1084999}
+
+92,2017-02-05.22-30-06,21:13,SAST:D3CK,,PLAYER_BLACKJACK,1092499,5000,12500,{'cansplit': 'false', 'player': [{'value': 1, 'id': 13}, {'value': 10, 'id': 22}], 'win': 'W', 'dealer': [{'value': 3, 'id': 41}, {'value': 13, 'id': 12}], 'blackjack': 'true', 'state': 'true', 'step': 'Stop', 'totalCoins': 1084999}
+
+94,2017-02-05.22-30-07,14:23,S4SJ:C2HTCAST,S,PLAYER_WIN,1094999,5000,10000,{'dealerPoints': 23, 'player': [{'value': 4, 'id': 16}, {'value': 11, 'id': 23}], 'win': 'W', 'dealer': [{'value': 2, 'id': 1}, {'value': 10, 'id': 35}, {'value': 1, 'id': 0}, {'value': 10, 'id': 22}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 14, 'step': 'Stop', 'totalCoins': 1089999}
+
+95,2017-02-05.22-30-07,19:19,S3S5HA:DTC9,S,PUSH,1089999,5000,5000,{'dealerPoints': 19, 'player': [{'value': 3, 'id': 15}, {'value': 5, 'id': 17}, {'value': 1, 'id': 26}], 'win': 'P', 'dealer': [{'value': 10, 'id': 48}, {'value': 9, 'id': 8}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 1094999}
+
+96,2017-02-05.22-30-08,13:22,D2D8S3:C4D9S9,D,PLAYER_WIN,1104999,10000,20000,{'dealerPoints': 22, 'player': [{'value': 2, 'id': 40}, {'value': 8, 'id': 46}, {'value': 3, 'id': 15}], 'win': 'W', 'dealer': [{'value': 4, 'id': 3}, {'value': 9, 'id': 47}, {'value': 9, 'id': 21}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 13, 'step': 'Stop', 'totalCoins': 1099999}
+
+97,2017-02-05.22-30-08,26:14,H2D5C2S7HT:SAH3,H,DEALER_WIN,1094999,5000,0,{'dealerPoints': 14, 'player': [{'value': 2, 'id': 27}, {'value': 5, 'id': 43}, {'value': 2, 'id': 1}, {'value': 7, 'id': 19}, {'value': 10, 'id': 35}], 'win': 'F', 'dealer': [{'value': 1, 'id': 13}, {'value': 3, 'id': 28}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 26, 'step': 'Stop', 'totalCoins': 1089999}
+
+99,2017-02-05.22-30-09,18:18,C9C3H6:S8SJ,S,PUSH,1079999,5000,5000,{'dealerPoints': 18, 'player': [{'value': 9, 'id': 8}, {'value': 3, 'id': 2}, {'value': 6, 'id': 31}], 'win': 'P', 'dealer': [{'value': 8, 'id': 20}, {'value': 11, 'id': 23}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1084999}
+
+100,2017-02-05.22-30-09,20:18,CTDQ:S2H6SQ,S,PLAYER_WIN,1089999,5000,10000,{'dealerPoints': 18, 'player': [{'value': 10, 'id': 9}, {'value': 12, 'id': 50}], 'win': 'W', 'dealer': [{'value': 2, 'id': 14}, {'value': 6, 'id': 31}, {'value': 12, 'id': 24}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 20, 'step': 'Stop', 'totalCoins': 1084999}
+
+101,2017-02-05.22-30-09,18:20,D8S7D3:HTCQ,S,DEALER_WIN,1079999,5000,0,{'dealerPoints': 20, 'player': [{'value': 8, 'id': 46}, {'value': 7, 'id': 19}, {'value': 3, 'id': 41}], 'win': 'F', 'dealer': [{'value': 10, 'id': 35}, {'value': 12, 'id': 11}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1074999}
+
+102,2017-02-05.22-30-10,18:21,C2S2H3CA:DAST,S,DEALER_WIN,1069999,5000,0,{'dealerPoints': 21, 'player': [{'value': 2, 'id': 1}, {'value': 2, 'id': 14}, {'value': 3, 'id': 28}, {'value': 1, 'id': 0}], 'win': 'F', 'dealer': [{'value': 1, 'id': 39}, {'value': 10, 'id': 22}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1074999}
+
+103,2017-02-05.22-30-10,24:12,D4HQDK:CJS2,H,DEALER_WIN,1069999,5000,0,{'dealerPoints': 12, 'player': [{'value': 4, 'id': 42}, {'value': 12, 'id': 37}, {'value': 13, 'id': 51}], 'win': 'F', 'dealer': [{'value': 11, 'id': 10}, {'value': 2, 'id': 14}], 'state': 'true', 'bust': 'player', 'splited': 'false', 'playerPoints': 24, 'step': 'Stop', 'totalCoins': 1079999}
+
+104,2017-02-05.22-30-10,17:18,CQH7:STD5H3,S,DEALER_WIN,1074999,5000,0,{'dealerPoints': 18, 'player': [{'value': 12, 'id': 11}, {'value': 7, 'id': 32}], 'win': 'F', 'dealer': [{'value': 10, 'id': 22}, {'value': 5, 'id': 43}, {'value': 3, 'id': 28}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1089999}
+
+105,2017-02-05.22-30-11,17:18,C6SA:C4H4S2C8,S,DEALER_WIN,1084999,5000,0,{'dealerPoints': 18, 'player': [{'value': 6, 'id': 5}, {'value': 1, 'id': 13}], 'win': 'F', 'dealer': [{'value': 4, 'id': 3}, {'value': 4, 'id': 29}, {'value': 2, 'id': 14}, {'value': 8, 'id': 7}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1094999}
+
+106,2017-02-05.22-30-11,17:19,CQD2H4DA:HQD5D4,S,DEALER_WIN,1089999,5000,0,{'dealerPoints': 19, 'player': [{'value': 12, 'id': 11}, {'value': 2, 'id': 40}, {'value': 4, 'id': 29}, {'value': 1, 'id': 39}], 'win': 'F', 'dealer': [{'value': 12, 'id': 37}, {'value': 5, 'id': 43}, {'value': 4, 'id': 42}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1084999}
+
+107,2017-02-05.22-30-12,17:19,HQS7:H9DQ,S,DEALER_WIN,1079999,5000,0,{'dealerPoints': 19, 'player': [{'value': 12, 'id': 37}, {'value': 7, 'id': 19}], 'win': 'F', 'dealer': [{'value': 9, 'id': 34}, {'value': 12, 'id': 50}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1074999}
+
+109,2017-02-05.22-30-12,18:18,DTH5H3:S8DJ,S,PUSH,1079999,5000,5000,{'dealerPoints': 18, 'player': [{'value': 10, 'id': 48}, {'value': 5, 'id': 30}, {'value': 3, 'id': 28}], 'win': 'P', 'dealer': [{'value': 8, 'id': 20}, {'value': 11, 'id': 49}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1084999}
+
+110,2017-02-05.22-30-13,17:22,D3S8D6:DJS4D2S6,D,PLAYER_WIN,1094999,10000,20000,{'dealerPoints': 22, 'player': [{'value': 3, 'id': 41}, {'value': 8, 'id': 20}, {'value': 6, 'id': 44}], 'win': 'W', 'dealer': [{'value': 11, 'id': 49}, {'value': 4, 'id': 16}, {'value': 2, 'id': 40}, {'value': 6, 'id': 18}], 'state': 'true', 'bust': 'dealer', 'splited': 'false', 'playerPoints': 17, 'step': 'Stop', 'totalCoins': 1089999}
+
+111,2017-02-05.22-30-13,18:20,D7SA:SJST,S,DEALER_WIN,1084999,5000,0,{'dealerPoints': 20, 'player': [{'value': 7, 'id': 45}, {'value': 1, 'id': 13}], 'win': 'F', 'dealer': [{'value': 11, 'id': 23}, {'value': 10, 'id': 22}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 18, 'step': 'Stop', 'totalCoins': 1089999}
+
+112,2017-02-05.22-30-13,19:18,D4H2C3HJ:S4C4HQ,S,PLAYER_WIN,1094999,5000,10000,{'dealerPoints': 18, 'player': [{'value': 4, 'id': 42}, {'value': 2, 'id': 27}, {'value': 3, 'id': 2}, {'value': 11, 'id': 36}], 'win': 'W', 'dealer': [{'value': 4, 'id': 16}, {'value': 4, 'id': 3}, {'value': 12, 'id': 37}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 19, 'step': 'Stop', 'totalCoins': 1079999}
+
+113,2017-02-05.22-30-14,21:21,D8H3CQ:DASK,D,PUSH,1079999,10000,10000,{'dealerPoints': 21, 'player': [{'value': 8, 'id': 46}, {'value': 3, 'id': 28}, {'value': 12, 'id': 11}], 'win': 'P', 'dealer': [{'value': 1, 'id': 39}, {'value': 13, 'id': 25}], 'state': 'true', 'bust': 'None', 'splited': 'false', 'playerPoints': 21, 'step': 'Stop', 'totalCoins': 1084999}
+

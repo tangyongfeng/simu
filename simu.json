@@ -1,0 +1,26 @@
+{
+    "default": {
+        "break_log": true,
+        "error_break": false,
+        "stage_size": 200,
+        "detail_log": false,
+        "has_double": true,
+        "stake_start": 5000,
+        "has_split": false,
+        "stage_log": true,
+        "stake_end": 100000,
+        "best_strategy": true,
+        "stake_stride": 5000,
+        "verify_level": false,
+        "native_black_return": 2.5,
+        "session_log": true,
+        "verify_coin_blance": true
+    },
+    "main": {
+        "start_user_id": 944,
+        "end_user_id": 944
+    },
+    "999": {
+        "detail_log": false
+    }
+}

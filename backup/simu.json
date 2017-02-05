@@ -1,0 +1,28 @@
+{
+    "default": {
+        "verify_level": false, 
+        "error_break": false, 
+        "has_split": false, 
+        "verify_coin_blance": true, 
+        "detail_log": false, 
+        "session_log": true, 
+        "stake_end": 1000000, 
+        "break_log": true, 
+        "native_black_return": 2.5, 
+        "stake_stride": 1000, 
+        "stake_steps": 2000, 
+        "has_double": true, 
+        "best_strategy": true, 
+        "stake_start": 10
+    }, 
+    "main": {
+        "end_user_id": 911, 
+        "start_user_id": 911
+    }, 
+    "911": {
+        "detail_log": false
+    }, 
+    "500": {
+        "detail_log": false
+    }
+}

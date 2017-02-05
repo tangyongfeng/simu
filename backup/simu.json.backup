@@ -1,0 +1,27 @@
+{
+    "main": {
+        "start_session_id": 486,
+        "end_session_id": 487
+    },
+    "486": {
+        "detail_log": false,
+    },
+    "487": {
+        "detail_log": false
+    },
+    "default": {
+        "verify_level": false,
+        "stake_end": 10000,
+        "break_log": true,
+        "has_double": true,
+        "stake_steps": 40,
+        "best_strategy": true,
+        "stake_start": 10,
+        "detail_log": true,
+        "stake_stride": 500,
+        "double_return": 2.5,
+        "has_split": false,
+        "session_log": true,
+        "verify_coin_blance": true
+    }
+}
