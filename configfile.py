@@ -11,8 +11,9 @@ class ConfigFile:
 		self._sessionconfig=[]
 		for i in range(self._mainconfig["start_user_id"],self._mainconfig["end_user_id"]+1):
 			self._sessionconfig.insert(i-self._mainconfig["start_user_id"],self._defconfig.copy())
-			for v in self._config['%d'%i]:
-				self._sessionconfig[i-self._mainconfig["start_user_id"]][v]=self._config['%d'%i]['%s'%v]
+			if '%d'%i in self._config:
+				for v in self._config['%d'%i]:
+					self._sessionconfig[i-self._mainconfig["start_user_id"]][v]=self._config['%d'%i]['%s'%v]
 			self._sessionconfig[i-self._mainconfig["start_user_id"]]['user_id']=i
 		self.mainconfig=self.obj_dict(self._mainconfig)
 		self.defconfig=self.obj_dict(self._defconfig)
