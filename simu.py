@@ -44,6 +44,7 @@ class Financial:
 		#median=np.median(self.awardList)
 
 		#stage_info='%d,%f,%f,%f,%f,%d'%(self.stage,mean,median,var,std,self.stake)
+		stage_info=''
 		self.accountList=[]
 		self.awardList=[]
 		self.stage+=1
