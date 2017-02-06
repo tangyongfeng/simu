@@ -127,8 +127,15 @@ class Loging:
 			result+='native_black_return:'+str(config.native_black_return)
 		if hasattr(config,'has_split'):
 			result+='has_split:'+str(config.has_split)
+		if hasattr(config,'stake_start') and hasattr(config,'stake_end'):
+			result+='stake is start from %d to %d'%(config.stake_start,config.stake_end)
+		if hasattr(config,'stage_size') and hasattr(config,'stake_stride'):
+			result+='add %d stake per %d'%(config.stake_stride,config.stage_size)
 		result+='\n'
 		self._config=config
+		if self.session_Log :
+			self.sessionfile.write(result)
+			self.sessionfile.flush()
 
 		return result
  
@@ -155,7 +162,7 @@ class Simuclient(threading.Thread):
 		self.player=Player()
 		self.strategy=strategytable.Strategy(self.config.best_strategy)
 		self.loging=Loging(userid,self.config.session_log,self.config.detail_log,self.config.break_log,self.config.stage_log)
-		self.loging.sessionlog(self.config)
+		self.loging.configDescription(self.config)
 
 
 	def __del__(self):
