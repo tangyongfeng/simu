@@ -77,6 +77,7 @@ class Loging:
 		if self.stage_Log:
 			self.stagefile=open(self.logfilename+'.stage.txt','w')
 			self.stagefile.write('stage,mean,median,var,std,stake')
+			self.stagefile.write('\n')
 			self.stagefile.flush()
 	def __del__(self):
 		if self.detail_Log:
