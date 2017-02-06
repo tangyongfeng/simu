@@ -117,6 +117,21 @@ class Loging:
 		self.stagefile.write(stagemessage)
 		self.stagefile.write('\n')
 		self.stagefile.flush()
+
+	def configDescription(self,config):
+		if hasattr(config,'best_strategy'):
+			result='best strategy:'+str(config.best_strategy)
+		if hasattr(config,'has_double'):
+			result+='has double:'+str(config.has_double)
+		if hasattr(config,'native_black_return'):
+			result+='native_black_return:'+str(config.native_black_return)
+		if hasattr(config,'has_split'):
+			result+='has_split:'+str(config.has_split)
+		result+='\n'
+		self._config=config
+
+		return result
+ 
 		
 		
 
@@ -130,6 +145,7 @@ class Simuclient(threading.Thread):
 		
 		self.starttime=datetime.datetime.now()
 		self.config=configfile.ConfigFile().userconfig(userid)
+		
 		self.uid=userid
 		self.win=0
 		self.lost=0
@@ -139,6 +155,7 @@ class Simuclient(threading.Thread):
 		self.player=Player()
 		self.strategy=strategytable.Strategy(self.config.best_strategy)
 		self.loging=Loging(userid,self.config.session_log,self.config.detail_log,self.config.break_log,self.config.stage_log)
+		self.loging.sessionlog(self.config)
 
 
 	def __del__(self):
