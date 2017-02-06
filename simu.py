@@ -37,13 +37,13 @@ class Financial:
 		self.awardList.append(award)
 		self.round+=1
 	def getStage(self):
-		import numpy as np
-		mean=np.mean(self.awardList)
-		var=np.var(self.awardList)
-		std=np.std(self.awardList)
-		median=np.median(self.awardList)
+		#import numpy as np
+		#mean=np.mean(self.awardList)
+		#var=np.var(self.awardList)
+		#std=np.std(self.awardList)
+		#median=np.median(self.awardList)
 
-		stage_info='%d,%f,%f,%f,%f,%d'%(self.stage,mean,median,var,std,self.stake)
+		#stage_info='%d,%f,%f,%f,%f,%d'%(self.stage,mean,median,var,std,self.stake)
 		self.accountList=[]
 		self.awardList=[]
 		self.stage+=1
