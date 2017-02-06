@@ -118,19 +118,27 @@ class Loging:
 		self.stagefile.write('\n')
 		self.stagefile.flush()
 
+
 	def configDescription(self,config):
+		result=''
 		if hasattr(config,'best_strategy'):
-			result='best strategy:'+str(config.best_strategy)
+			result+='best strategy:'+str(config.best_strategy)
+			result+='\n'
 		if hasattr(config,'has_double'):
 			result+='has double:'+str(config.has_double)
+			result+='\n'
 		if hasattr(config,'native_black_return'):
 			result+='native_black_return:'+str(config.native_black_return)
+			result+='\n'
 		if hasattr(config,'has_split'):
 			result+='has_split:'+str(config.has_split)
+			result+='\n'
 		if hasattr(config,'stake_start') and hasattr(config,'stake_end'):
 			result+='stake is start from %d to %d'%(config.stake_start,config.stake_end)
+			result+='\n'
 		if hasattr(config,'stage_size') and hasattr(config,'stake_stride'):
-			result+='add %d stake per %d'%(config.stake_stride,config.stage_size)
+			result+='add %d stake per %d round'%(config.stake_stride,config.stage_size)
+			result+='\n'
 		result+='\n'
 		self._config=config
 		if self.session_Log :
