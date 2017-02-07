@@ -48,6 +48,7 @@ class Financial:
 		self.accountList=[]
 		self.awardList=[]
 		self.stage+=1
+	
 		return stage_info
 class Player:
 	def  __init__(self):
@@ -226,40 +227,28 @@ class Simuclient(threading.Thread):
 		award=0
 		if playerhand.get_value()>21:
 			result= 'DEALER_WIN'
-			if _DEEP_DEBUG_:
-				print (result)
 			self.lost+=1
 			award=0
 		elif dealerhand.get_value()>21:
 			self.win+=1
 			result= 'PLAYER_WIN'
-			if _DEEP_DEBUG_:
-				print (result)
 			self.win+=1
 			award=stake*2
 		elif (playerhand.get_count()==2) and (playerhand.get_value()==21):
 			result= 'PLAYER_BLACKJACK'
-			if _DEEP_DEBUG_:
-				print (result)
 			self.win+=1
 			award=stake*self.config.native_black_return
 
 		elif playerhand.get_value()>dealerhand.get_value():
 			result= 'PLAYER_WIN'	
-			if _DEEP_DEBUG_:
-				print (result)
 			self.win+=1
 			award=stake*2
 		elif playerhand.get_value()<dealerhand.get_value():
 			result= 'DEALER_WIN'	
-			if _DEEP_DEBUG_:
-				print (result)
 			self.lost+=1
 			award=0
 		elif playerhand.get_value()==dealerhand.get_value():
 			result= 'PUSH'	
-			if _DEEP_DEBUG_:
-				print (result)
 			self.push+=1
 			award=stake
 
@@ -285,7 +274,7 @@ class Simuclient(threading.Thread):
 			self.loging.detaillog(detailstr)
 
 	def  roundVerify(self,strategy,winer,award):
-		result= "%s:%s,%s:%s,%s,%s,%d,%d,%d"%(self.player.fristHand.get_value(),self.player.dealerhand.get_value(),self.player.fristHand,self.player.dealerhand,strategy,winer,self.player.financial.CoinBlance,self.player.financial.stake,award)
+		result= "%d,%d,%s:%s,%s:%s,%s,%s,%d,%d,%d"%(self.player.financial.stage,self.player.financial.round,self.player.fristHand.get_value(),self.player.dealerhand.get_value(),self.player.fristHand,self.player.dealerhand,strategy,winer,self.player.financial.CoinBlance,self.player.financial.stake,award)
 		if self.config.session_log:
 			self.loging.sessionlog (result)
 		if self.config.break_log:
@@ -334,6 +323,10 @@ class Simuclient(threading.Thread):
 						self.roundState='HIT'
 					else:
 						self.roundState='SETTLE'
+				if _DEEP_DEBUG_ :
+					print ('after deal')
+					print ('stage,round,stake,stage size')
+					print (self.player.financial.stage,self.player.financial.round,self.player.financial.stake,self.config.stage_size)
 
 				if self.roundState=='HIT':
 					strategy=self.strategy.getStrategy(self.player.fristHand,self.player.dealerhand)
@@ -365,10 +358,18 @@ class Simuclient(threading.Thread):
 
 				if self.roundState=='SETTLE':
 					winer,award=self.getJudgment(self.player.fristHand,self.player.dealerhand,self.player.financial.stake)
+					if _DEEP_DEBUG_ :
+						print ('Judgment over')
+						print ('stage,round,stake,stage size')
+						print (self.player.financial.stage,self.player.financial.round,self.player.financial.stake,self.config.stake_stride)
 
 					self.detailMaker(self.player.fristHand,self.player.dealerhand,self.roundState,strategy,winer)
-					self.roundVerify(strategy,winer,award)
 					self.player.financial.stake=roundStake
+					self.roundVerify(strategy,winer,award)
+					if _DEEP_DEBUG_ :
+						print ('round over')
+						print ('stage,round,stake,stage size')
+						print (self.player.financial.stage,self.player.financial.round,self.player.financial.stake,self.config.stake_stride)
 
 			except IOError as e:
 				print (e)
