@@ -361,7 +361,7 @@ class Simuclient(threading.Thread):
 					if _DEEP_DEBUG_ :
 						print ('Judgment over')
 						print ('stage,round,stake,stage size')
-						print (self.player.financial.stage,self.player.financial.round,self.player.financial.stake,self.config.stake_stride)
+						print (self.player.financial.stage,self.player.financial.round,self.player.financial.stake,self.config.stage_size)
 
 					self.detailMaker(self.player.fristHand,self.player.dealerhand,self.roundState,strategy,winer)
 					self.player.financial.stake=roundStake
@@ -369,7 +369,7 @@ class Simuclient(threading.Thread):
 					if _DEEP_DEBUG_ :
 						print ('round over')
 						print ('stage,round,stake,stage size')
-						print (self.player.financial.stage,self.player.financial.round,self.player.financial.stake,self.config.stake_stride)
+						print (self.player.financial.stage,self.player.financial.round,self.player.financial.stake,self.config.stage_size)
 
 			except IOError as e:
 				print (e)
