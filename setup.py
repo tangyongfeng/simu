@@ -4,18 +4,20 @@ import json
 def tree(): return defaultdict(tree)
 session_config =tree()
 
-session_config['main']['start_user_id']=944
-session_config['main']['end_user_id']=945
+session_config['main']['start_user_id']=987
+session_config['main']['end_user_id']=988
 
 session_config['default']['session_log']=True
+session_config['default']['session_log_head']=True
 session_config['default']['detail_log']=False
 session_config['default']['break_log']=True
-session_config['default']['stage_log']=False
+session_config['default']['stage_log']=True
+session_config['default']['stage_log_head']=True
 session_config['default']['error_break']=False
 session_config['default']['stake_start']=100
-session_config['default']['stake_end']=1000000
-session_config['default']['stake_stride']=5000
-session_config['default']['stage_size']=1000         
+session_config['default']['stake_end']=100000
+session_config['default']['stake_stride']=100
+session_config['default']['stage_size']=100         
 session_config['default']['stage_dissect']=False
 session_config['default']['best_strategy']=True
 session_config['default']['has_double']=True
@@ -27,17 +29,7 @@ session_config['default']['verify_level']=False
 
 
 
-
-session_config['944']['session_log']=True
-session_config['944']['detail_log']=False
-session_config['944']['break_log']=False
-session_config['945']['session_log']=True
-session_config['945']['detail_log']=False
-session_config['945']['break_log']=False
-session_config['945']['stake_start']=100
-session_config['945']['stake_end']=1000000
-session_config['945']['stage_size']=1000         
-session_config['945']['stake_stride']=500
+session_config['987']['best_strategy']=False
 
 
 def saveconfig():

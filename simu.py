@@ -9,6 +9,7 @@ import os,errno
 import configfile
 import zhongcaiweiyou
 import strategytable
+import numpy as np
 from poker import *
 
 
@@ -26,6 +27,8 @@ class Financial:
 		self.stage=0
 		self.accountList=[]
 		self.awardList=[]
+		self.blanceList=[]
+		self._stage_head=True
 	def pocketIt(self,award):
 		self.CoinBlance-=self.stake
 		self.CoinBlance+=award
@@ -35,19 +38,27 @@ class Financial:
 			print (result)
 		self.accountList.append(result)
 		self.awardList.append(award)
+		self.blanceList.append(self.CoinBlance)
 		self.round+=1
 	def getStage(self):
-		#import numpy as np
-		#mean=np.mean(self.awardList)
-		#var=np.var(self.awardList)
-		#std=np.std(self.awardList)
-		#median=np.median(self.awardList)
-
-		#stage_info='%d,%f,%f,%f,%f,%d'%(self.stage,mean,median,var,std,self.stake)
 		stage_info=''
+		mean=np.mean(self.awardList)
+		var=np.var(self.awardList)
+		median=np.median(self.awardList)
+		blanceMin=np.min(self.blanceList)
+		blanceMax=np.max(self.blanceList)
+		if self._stage_head:
+			head='stage,mean,median,var,blanceMin,blanceMax,stake\n'
+			self._stage_head=False
+		else:
+			head=''
+		stage_info+=head
+		stage_info+='%d,%d,%d,%d,%d,%d,%d'%(self.stage,mean,median,var,blanceMin,blanceMax,self.stake)
 		self.accountList=[]
 		self.awardList=[]
+		self.blanceList=[]
 		self.stage+=1
+	
 		return stage_info
 class Player:
 	def  __init__(self):
@@ -77,7 +88,6 @@ class Loging:
 			self.breakfile=open(self.logfilename+'.break.txt','w')
 		if self.stage_Log:
 			self.stagefile=open(self.logfilename+'.stage.txt','w')
-			self.stagefile.write('stage,mean,median,var,std,stake')
 			self.stagefile.write('\n')
 			self.stagefile.flush()
 	def __del__(self):
@@ -141,9 +151,6 @@ class Loging:
 			result+='\n'
 		result+='\n'
 		self._config=config
-		if self.session_Log :
-			self.sessionfile.write(result)
-			self.sessionfile.flush()
 
 		return result
  
@@ -170,7 +177,14 @@ class Simuclient(threading.Thread):
 		self.player=Player()
 		self.strategy=strategytable.Strategy(self.config.best_strategy)
 		self.loging=Loging(userid,self.config.session_log,self.config.detail_log,self.config.break_log,self.config.stage_log)
-		self.loging.configDescription(self.config)
+		if self.config.session_log_head:
+			result=self.loging.configDescription(self.config)
+			self.loging.sessionfile.write(result)
+			self.loging.sessionfile.flush()
+		if self.config.stage_log_head:
+			result=self.loging.configDescription(self.config)
+			self.loging.stagefile.write(result)
+			self.loging.stagefile.flush()
 
 
 	def __del__(self):
@@ -226,40 +240,28 @@ class Simuclient(threading.Thread):
 		award=0
 		if playerhand.get_value()>21:
 			result= 'DEALER_WIN'
-			if _DEEP_DEBUG_:
-				print (result)
 			self.lost+=1
 			award=0
 		elif dealerhand.get_value()>21:
 			self.win+=1
 			result= 'PLAYER_WIN'
-			if _DEEP_DEBUG_:
-				print (result)
 			self.win+=1
 			award=stake*2
 		elif (playerhand.get_count()==2) and (playerhand.get_value()==21):
 			result= 'PLAYER_BLACKJACK'
-			if _DEEP_DEBUG_:
-				print (result)
 			self.win+=1
 			award=stake*self.config.native_black_return
 
 		elif playerhand.get_value()>dealerhand.get_value():
 			result= 'PLAYER_WIN'	
-			if _DEEP_DEBUG_:
-				print (result)
 			self.win+=1
 			award=stake*2
 		elif playerhand.get_value()<dealerhand.get_value():
 			result= 'DEALER_WIN'	
-			if _DEEP_DEBUG_:
-				print (result)
 			self.lost+=1
 			award=0
 		elif playerhand.get_value()==dealerhand.get_value():
 			result= 'PUSH'	
-			if _DEEP_DEBUG_:
-				print (result)
 			self.push+=1
 			award=stake
 
@@ -285,7 +287,7 @@ class Simuclient(threading.Thread):
 			self.loging.detaillog(detailstr)
 
 	def  roundVerify(self,strategy,winer,award):
-		result= "%s:%s,%s:%s,%s,%s,%d,%d,%d"%(self.player.fristHand.get_value(),self.player.dealerhand.get_value(),self.player.fristHand,self.player.dealerhand,strategy,winer,self.player.financial.CoinBlance,self.player.financial.stake,award)
+		result= "%d,%d,%s:%s,%s:%s,%s,%s,%d,%d,%d"%(self.player.financial.stage,self.player.financial.round,self.player.fristHand.get_value(),self.player.dealerhand.get_value(),self.player.fristHand,self.player.dealerhand,strategy,winer,self.player.financial.CoinBlance,self.player.financial.stake,award)
 		if self.config.session_log:
 			self.loging.sessionlog (result)
 		if self.config.break_log:
@@ -334,6 +336,10 @@ class Simuclient(threading.Thread):
 						self.roundState='HIT'
 					else:
 						self.roundState='SETTLE'
+				if _DEEP_DEBUG_ :
+					print ('after deal')
+					print ('stage,round,stake,stage size')
+					print (self.player.financial.stage,self.player.financial.round,self.player.financial.stake,self.config.stage_size)
 
 				if self.roundState=='HIT':
 					strategy=self.strategy.getStrategy(self.player.fristHand,self.player.dealerhand)
@@ -365,10 +371,18 @@ class Simuclient(threading.Thread):
 
 				if self.roundState=='SETTLE':
 					winer,award=self.getJudgment(self.player.fristHand,self.player.dealerhand,self.player.financial.stake)
+					if _DEEP_DEBUG_ :
+						print ('Judgment over')
+						print ('stage,round,stake,stage size')
+						print (self.player.financial.stage,self.player.financial.round,self.player.financial.stake,self.config.stage_size)
 
 					self.detailMaker(self.player.fristHand,self.player.dealerhand,self.roundState,strategy,winer)
-					self.roundVerify(strategy,winer,award)
 					self.player.financial.stake=roundStake
+					self.roundVerify(strategy,winer,award)
+					if _DEEP_DEBUG_ :
+						print ('round over')
+						print ('stage,round,stake,stage size')
+						print (self.player.financial.stage,self.player.financial.round,self.player.financial.stake,self.config.stage_size)
 
 			except IOError as e:
 				print (e)
